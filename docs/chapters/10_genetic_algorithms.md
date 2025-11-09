@@ -641,7 +641,8 @@ Understanding genetic algorithms prepares you for:
 
 ## References / Further Reading
 
-### Primary References
+<details>
+<summary><strong>📚 Primary References</strong></summary>
 
 1. **Mitchell, M.** (1998). *An Introduction to Genetic Algorithms*. MIT Press.
    - [MIT Press](https://mitpress.mit.edu/9780262631853/an-introduction-to-genetic-algorithms/)
@@ -651,7 +652,10 @@ Understanding genetic algorithms prepares you for:
    - [Amazon](https://www.amazon.com/Genetic-Algorithms-Search-Optimization-Machine/dp/0201157675)
    - [Pearson](https://www.pearson.com/en-us/subject-catalog/p/genetic-algorithms-in-search-optimization-and-machine-learning/P200000003431)
 
-### Research Papers
+</details>
+
+<details>
+<summary><strong>🔬 Research Papers</strong></summary>
 
 3. **Holland, J. H.** (1975). *Adaptation in Natural and Artificial Systems*. University of Michigan Press.
    - [Amazon](https://www.amazon.com/Adaptation-Natural-Artificial-Systems-Introductory/dp/0262581116)
@@ -661,11 +665,16 @@ Understanding genetic algorithms prepares you for:
    - [DOI: 10.1109/4235.996017](https://doi.org/10.1109/4235.996017)
    - [IEEE Xplore](https://ieeexplore.ieee.org/document/996017)
 
-### Applications
+</details>
+
+<details>
+<summary><strong>📖 Applications</strong></summary>
 
 5. **Whitley, D.** (1994). A genetic algorithm tutorial. *Statistics and Computing*, 4(2), 65-85.
    - [DOI: 10.1007/BF00175354](https://doi.org/10.1007/BF00175354)
    - [PDF](https://link.springer.com/article/10.1007/BF00175354)
+
+</details>
 
 ---
 
@@ -675,7 +684,9 @@ Understanding genetic algorithms prepares you for:
 <summary><strong>📚 Official Documentation</strong></summary>
 
 - **DEAP Framework** - [Distributed Evolutionary Algorithms](https://deap.readthedocs.io/)
+
 - **PyGAD** - [Python Genetic Algorithm](https://pygad.readthedocs.io/)
+
 - **Scikit-optimize** - [Bayesian optimization](https://scikit-optimize.github.io/stable/)
 
 </details>
@@ -684,7 +695,9 @@ Understanding genetic algorithms prepares you for:
 <summary><strong>📖 Essential Articles</strong></summary>
 
 - **Genetic Algorithms Tutorial** - [Complete GA guide](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3)
+
 - **GA Implementation** - [Implementing GAs from scratch](https://machinelearningmastery.com/simple-genetic-algorithm-from-scratch-in-python/)
+
 - **Evolutionary Algorithms** - [Evolutionary computation overview](https://towardsdatascience.com/introduction-to-evolutionary-algorithms-a8594b484ac)
 
 </details>
@@ -693,7 +706,9 @@ Understanding genetic algorithms prepares you for:
 <summary><strong>🎓 Learning Resources</strong></summary>
 
 - **Genetic Algorithms Course** - [GA fundamentals](https://www.coursera.org/learn/genetic-algorithms)
+
 - **Evolutionary Computation** - [Evolutionary algorithms tutorial](https://www.tutorialspoint.com/genetic_algorithms/index.htm)
+
 - **Optimization with GAs** - [GA for optimization](https://machinelearningmastery.com/genetic-algorithms-for-real-world-optimization-problems/)
 
 </details>
@@ -702,7 +717,9 @@ Understanding genetic algorithms prepares you for:
 <summary><strong>💡 Best Practices</strong></summary>
 
 - **Parameter Tuning** - [GA hyperparameter selection](https://towardsdatascience.com/genetic-algorithm-parameters-5e2891c7a7c4)
+
 - **Selection Strategies** - [Selection operator comparison](https://towardsdatascience.com/genetic-algorithm-selection-methods-8b0d0c0e5c1)
+
 - **Convergence Criteria** - [Stopping conditions](https://towardsdatascience.com/genetic-algorithm-convergence-criteria-8b0d0c0e5c1)
 
 </details>
@@ -711,7 +728,9 @@ Understanding genetic algorithms prepares you for:
 <summary><strong>🔬 Research Papers</strong></summary>
 
 - **Genetic Algorithms** - [Holland (1975)](https://mitpress.mit.edu/9780262581110/adaptation-in-natural-and-artificial-systems/) - Adaptation in natural and artificial systems
+
 - **NSGA-II** - [Deb et al. (2002)](https://doi.org/10.1109/4235.996017) - Fast and elitist multiobjective genetic algorithm
+
 - **GA Tutorial** - [Whitley (1994)](https://doi.org/10.1007/BF00175354) - Comprehensive GA tutorial
 
 </details>

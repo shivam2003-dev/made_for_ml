@@ -498,7 +498,8 @@ Understanding linear models prepares you for:
 
 ## References / Further Reading
 
-### Primary References
+<details>
+<summary><strong>📚 Primary References</strong></summary>
 
 1. **Bishop, C. M.** (2006). *Pattern Recognition & Machine Learning*.
    - Chapter 3: Linear Models for Regression
@@ -508,7 +509,10 @@ Understanding linear models prepares you for:
    - Chapter 3: Linear Methods for Regression
    - Chapter 4: Linear Methods for Classification
 
-### Research Papers
+</details>
+
+<details>
+<summary><strong>🔬 Research Papers</strong></summary>
 
 3. **Tibshirani, R.** (1996). Regression shrinkage and selection via the lasso. *Journal of the Royal Statistical Society*, 58(1), 267-288.
    - [DOI: 10.1111/j.2517-6161.1996.tb02080.x](https://doi.org/10.1111/j.2517-6161.1996.tb02080.x)
@@ -518,6 +522,8 @@ Understanding linear models prepares you for:
    - [DOI: 10.1080/00401706.1970.10488634](https://doi.org/10.1080/00401706.1970.10488634)
    - [PDF](https://www.tandfonline.com/doi/abs/10.1080/00401706.1970.10488634)
 
+</details>
+
 ---
 
 ## Recommended Reads
@@ -526,7 +532,9 @@ Understanding linear models prepares you for:
 <summary><strong>📚 Official Documentation</strong></summary>
 
 - **Linear Models** - [Scikit-learn linear models](https://scikit-learn.org/stable/modules/linear_model.html)
+
 - **Logistic Regression** - [Logistic regression guide](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)
+
 - **Regularization** - [Ridge and Lasso documentation](https://scikit-learn.org/stable/modules/linear_model.html#ridge-regression-and-classification)
 
 </details>
@@ -535,7 +543,9 @@ Understanding linear models prepares you for:
 <summary><strong>📖 Essential Articles</strong></summary>
 
 - **Linear Regression Tutorial** - [Complete linear regression guide](https://machinelearningmastery.com/linear-regression-for-machine-learning/)
+
 - **Ridge vs Lasso** - [Understanding regularization](https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b)
+
 - **Logistic Regression Explained** - [Logistic regression tutorial](https://machinelearningmastery.com/logistic-regression-for-machine-learning/)
 
 </details>
@@ -544,7 +554,9 @@ Understanding linear models prepares you for:
 <summary><strong>🎓 Learning Resources</strong></summary>
 
 - **Gradient Descent** - [Understanding gradient descent](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3)
+
 - **Feature Scaling** - [Why and how to scale features](https://scikit-learn.org/stable/modules/preprocessing.html#standardization-or-mean-removal-and-variance-scaling)
+
 - **Multicollinearity** - [Handling multicollinearity](https://towardsdatascience.com/multicollinearity-in-regression-fe7a2b4d4d0)
 
 </details>
@@ -553,7 +565,9 @@ Understanding linear models prepares you for:
 <summary><strong>💡 Best Practices</strong></summary>
 
 - **Feature Scaling** - [Scaling best practices](https://scikit-learn.org/stable/modules/preprocessing.html#preprocessing-scaler)
+
 - **Regularization Tuning** - [Hyperparameter tuning for regularization](https://scikit-learn.org/stable/modules/grid_search.html)
+
 - **Linear Model Diagnostics** - [Model diagnostics](https://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares)
 
 </details>
@@ -562,6 +576,7 @@ Understanding linear models prepares you for:
 <summary><strong>🔬 Research Papers</strong></summary>
 
 - **Lasso Regression** - [Tibshirani (1996)](https://doi.org/10.1111/j.2517-6161.1996.tb02080.x) - Regression shrinkage and selection via lasso
+
 - **Ridge Regression** - [Hoerl & Kennard (1970)](https://doi.org/10.1080/00401706.1970.10488634) - Biased estimation for nonorthogonal problems
 
 </details>

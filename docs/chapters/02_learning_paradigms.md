@@ -493,7 +493,8 @@ Understanding learning paradigms prepares you for:
 
 ## References / Further Reading
 
-### Primary References
+<details>
+<summary><strong>📚 Primary References</strong></summary>
 
 1. **Mitchell, T. M.** (1997). *Machine Learning*. 
    - Chapter 1: Introduction (Supervised Learning)
@@ -503,7 +504,10 @@ Understanding learning paradigms prepares you for:
    - Chapter 1: Introduction
    - Chapter 9: Mixture Models and EM (Unsupervised)
 
-### Reinforcement Learning
+</details>
+
+<details>
+<summary><strong>📖 Reinforcement Learning</strong></summary>
 
 3. **Sutton, R. S., & Barto, A. G.** (2018). *Reinforcement Learning: An Introduction* (2nd ed.). MIT Press.
    - [MIT Press](https://mitpress.mit.edu/9780262039246/reinforcement-learning-second-edition/)
@@ -515,12 +519,17 @@ Understanding learning paradigms prepares you for:
    - [Free PDF](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
    - [Amazon](https://www.amazon.com/Algorithms-Reinforcement-Learning-Synthesis-Artificial/dp/1608454924)
 
-### Research Papers
+</details>
+
+<details>
+<summary><strong>🔬 Research Papers</strong></summary>
 
 5. **Jordan, M. I., & Mitchell, T. M.** (2015). Machine learning: Trends, perspectives, and prospects. *Science*, 349(6245), 255-260.
    - [DOI: 10.1126/science.aaa8415](https://doi.org/10.1126/science.aaa8415)
    - [Science](https://www.science.org/doi/10.1126/science.aaa8415)
    - [PDF](https://www.science.org/doi/pdf/10.1126/science.aaa8415)
+
+</details>
 
 ---
 
@@ -530,7 +539,9 @@ Understanding learning paradigms prepares you for:
 <summary><strong>📚 Official Documentation</strong></summary>
 
 - **Scikit-learn Supervised Learning** - [Classification and regression](https://scikit-learn.org/stable/supervised_learning.html)
+
 - **Scikit-learn Unsupervised Learning** - [Clustering and dimensionality reduction](https://scikit-learn.org/stable/unsupervised_learning.html)
+
 - **OpenAI Gym** - [Reinforcement learning environments](https://www.gymlibrary.dev/)
 
 </details>
@@ -539,7 +550,9 @@ Understanding learning paradigms prepares you for:
 <summary><strong>📖 Essential Articles</strong></summary>
 
 - **Supervised vs Unsupervised** - [Towards Data Science guide](https://towardsdatascience.com/supervised-vs-unsupervised-learning-14f68e32ea8d)
+
 - **Reinforcement Learning Tutorial** - [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
+
 - **Semi-supervised Learning** - [Introduction to semi-supervised learning](https://scikit-learn.org/stable/modules/semi_supervised.html)
 
 </details>
@@ -548,7 +561,9 @@ Understanding learning paradigms prepares you for:
 <summary><strong>🎓 Learning Resources</strong></summary>
 
 - **RL Course** - [David Silver's RL Course](https://www.davidsilver.uk/teaching/)
+
 - **Unsupervised Learning** - [Coursera Unsupervised Learning](https://www.coursera.org/learn/unsupervised-learning)
+
 - **Clustering Tutorial** - [Scikit-learn clustering tutorial](https://scikit-learn.org/stable/modules/clustering.html)
 
 </details>
@@ -557,7 +572,9 @@ Understanding learning paradigms prepares you for:
 <summary><strong>💡 Best Practices</strong></summary>
 
 - **Choosing Learning Paradigm** - [When to use supervised/unsupervised/RL](https://machinelearningmastery.com/what-is-machine-learning/)
+
 - **Data Labeling** - [Labeling strategies](https://www.cloudfactory.com/data-labeling-guide)
+
 - **RL Best Practices** - [OpenAI RL best practices](https://spinningup.openai.com/en/latest/user/algorithms.html)
 
 </details>
@@ -566,6 +583,7 @@ Understanding learning paradigms prepares you for:
 <summary><strong>🔬 Research Papers</strong></summary>
 
 - **ML Trends** - [Jordan & Mitchell (2015)](https://doi.org/10.1126/science.aaa8415) - Machine learning perspectives
+
 - **RL Introduction** - [Sutton & Barto (2018)](http://incompleteideas.net/book/the-book-2nd.html) - Reinforcement learning textbook
 
 </details>

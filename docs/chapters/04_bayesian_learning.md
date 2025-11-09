@@ -492,7 +492,8 @@ Understanding Bayesian learning prepares you for:
 
 ## References / Further Reading
 
-### Primary References
+<details>
+<summary><strong>📚 Primary References</strong></summary>
 
 1. **Mitchell, T. M.** (1997). *Machine Learning*.
    - Chapter 6: Bayesian Learning
@@ -502,7 +503,10 @@ Understanding Bayesian learning prepares you for:
    - Chapter 2: Probability Distributions
    - Chapter 3: Linear Models for Regression (Bayesian)
 
-### Research Papers
+</details>
+
+<details>
+<summary><strong>🔬 Research Papers</strong></summary>
 
 3. **Rissanen, J.** (1978). Modeling by shortest data description. *Automatica*, 14(5), 465-471. (MDL Principle)
    - [DOI: 10.1016/0005-1098(78)90005-5](https://doi.org/10.1016/0005-1098(78)90005-5)
@@ -512,6 +516,8 @@ Understanding Bayesian learning prepares you for:
    - [DOI: 10.1023/A:1007413511361](https://doi.org/10.1023/A:1007413511361)
    - [PDF](https://link.springer.com/article/10.1023/A:1007413511361)
 
+</details>
+
 ---
 
 ## Recommended Reads
@@ -520,7 +526,9 @@ Understanding Bayesian learning prepares you for:
 <summary><strong>📚 Official Documentation</strong></summary>
 
 - **Scikit-learn Naive Bayes** - [Naive Bayes classifiers](https://scikit-learn.org/stable/modules/naive_bayes.html)
+
 - **PyMC3 Documentation** - [Probabilistic programming](https://www.pymc.io/projects/docs/en/stable/)
+
 - **Stan Documentation** - [Bayesian inference](https://mc-stan.org/users/documentation/)
 
 </details>
@@ -529,7 +537,9 @@ Understanding Bayesian learning prepares you for:
 <summary><strong>📖 Essential Articles</strong></summary>
 
 - **Bayesian Inference Tutorial** - [Bayesian methods guide](https://towardsdatascience.com/bayesian-inference-introduction-90c9e2c3aaeb)
+
 - **Naive Bayes Explained** - [Naive Bayes tutorial](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
+
 - **MAP vs ML** - [Understanding MAP estimation](https://towardsdatascience.com/maximum-likelihood-estimation-vs-maximum-a-posteriori-estimation-b3af2bdf9a5)
 
 </details>
@@ -538,7 +548,9 @@ Understanding Bayesian learning prepares you for:
 <summary><strong>🎓 Learning Resources</strong></summary>
 
 - **Bayesian Methods** - [Bayesian statistics course](https://www.coursera.org/learn/bayesian-statistics)
+
 - **Probabilistic Programming** - [PyMC tutorials](https://www.pymc.io/projects/examples/en/latest/)
+
 - **Bayesian ML** - [Bayesian machine learning guide](https://www.cs.ubc.ca/~murphyk/MLbook/)
 
 </details>
@@ -547,7 +559,9 @@ Understanding Bayesian learning prepares you for:
 <summary><strong>💡 Best Practices</strong></summary>
 
 - **Prior Selection** - [Choosing priors](https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/prior_choice_guidelines.html)
+
 - **Bayesian Model Comparison** - [Model comparison techniques](https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/model_comparison.html)
+
 - **MCMC Diagnostics** - [MCMC convergence diagnostics](https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/Diagnosing_biased_Inference_with_Divergences.html)
 
 </details>

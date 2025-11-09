@@ -531,7 +531,8 @@ Understanding these foundations prepares you for:
 
 ## References / Further Reading
 
-### Primary References
+<details>
+<summary><strong>📚 Primary References</strong></summary>
 
 1. **Mitchell, T. M.** (1997). *Machine Learning*. Chapter 1: Introduction. McGraw-Hill.
    - [Amazon](https://www.amazon.com/Machine-Learning-Tom-M-Mitchell/dp/0070428077)
@@ -542,7 +543,10 @@ Understanding these foundations prepares you for:
    - [Free PDF (Author's Website)](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
    - [Amazon](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
 
-### Additional Reading
+</details>
+
+<details>
+<summary><strong>📖 Additional Reading</strong></summary>
 
 3. **Hastie, T., Tibshirani, R., & Friedman, J.** (2009). *The Elements of Statistical Learning*. Chapter 1: Introduction. Springer.
    - [Springer](https://link.springer.com/book/10.1007/978-0-387-84858-7)
@@ -554,11 +558,16 @@ Understanding these foundations prepares you for:
    - [Free PDF (Author's Website)](https://cs.nyu.edu/~mohri/mlbook/)
    - [Amazon](https://www.amazon.com/Foundations-Machine-Learning-Adaptive-Computation/dp/0262039400)
 
-### Research Papers
+</details>
+
+<details>
+<summary><strong>🔬 Research Papers</strong></summary>
 
 5. **Wolpert, D. H.** (1996). The lack of a priori distinctions between learning algorithms. *Neural Computation*, 8(7), 1341-1390. (No Free Lunch Theorem)
    - [DOI: 10.1162/neco.1996.8.7.1341](https://doi.org/10.1162/neco.1996.8.7.1341)
    - [PDF](https://direct.mit.edu/neco/article-abstract/8/7/1341/6108/The-Lack-of-A-Priori-Distinctions-Between-Learning)
+
+</details>
 
 ---
 
@@ -568,7 +577,9 @@ Understanding these foundations prepares you for:
 <summary><strong>📚 Official Documentation</strong></summary>
 
 - **Scikit-learn User Guide** - [Complete ML guide](https://scikit-learn.org/stable/user_guide.html)
+
 - **NumPy Documentation** - [Array operations](https://numpy.org/doc/stable/)
+
 - **Pandas Documentation** - [Data manipulation](https://pandas.pydata.org/docs/)
 - **Matplotlib Documentation** - [Data visualization](https://matplotlib.org/stable/contents.html)
 
@@ -578,7 +589,9 @@ Understanding these foundations prepares you for:
 <summary><strong>📖 Essential Articles</strong></summary>
 
 - **Machine Learning Basics** - [Google's ML Crash Course](https://developers.google.com/machine-learning/crash-course)
+
 - **Introduction to ML** - [Stanford CS229 Notes](https://cs229.stanford.edu/syllabus.html)
+
 - **ML Fundamentals** - [Andrew Ng's Course Notes](https://www.coursera.org/learn/machine-learning)
 
 </details>
@@ -587,7 +600,9 @@ Understanding these foundations prepares you for:
 <summary><strong>🎓 Learning Resources</strong></summary>
 
 - **ML Glossary** - [Google's ML Glossary](https://developers.google.com/machine-learning/glossary)
+
 - **ML Concepts** - [AWS ML Concepts](https://docs.aws.amazon.com/machine-learning/latest/dg/machine-learning-concepts.html)
+
 - **Statistical Learning** - [Introduction to Statistical Learning](https://www.statlearning.com/)
 
 </details>
@@ -596,7 +611,9 @@ Understanding these foundations prepares you for:
 <summary><strong>💡 Best Practices</strong></summary>
 
 - **ML Best Practices** - [Google's ML Guide](https://developers.google.com/machine-learning/guides)
+
 - **Data Preparation** - [Data preprocessing guide](https://scikit-learn.org/stable/modules/preprocessing.html)
+
 - **Model Evaluation** - [Evaluation metrics guide](https://scikit-learn.org/stable/modules/model_evaluation.html)
 
 </details>
@@ -605,6 +622,7 @@ Understanding these foundations prepares you for:
 <summary><strong>🔬 Research Papers</strong></summary>
 
 - **No Free Lunch Theorem** - [Wolpert (1996)](https://doi.org/10.1162/neco.1996.8.7.1341) - Fundamental limits of learning algorithms
+
 - **Statistical Learning Theory** - [Vapnik (1998)](https://www.wiley.com/en-us/Statistical+Learning+Theory-p-9780471030034) - Theoretical foundations
 
 </details>

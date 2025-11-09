@@ -556,7 +556,8 @@ Understanding instance-based learning prepares you for:
 
 ## References / Further Reading
 
-### Primary References
+<details>
+<summary><strong>📚 Primary References</strong></summary>
 
 1. **Mitchell, T. M.** (1997). *Machine Learning*.
    - Chapter 8: Instance-Based Learning
@@ -565,7 +566,10 @@ Understanding instance-based learning prepares you for:
    - [DOI: 10.1023/A:1022689900470](https://doi.org/10.1023/A:1022689900470)
    - [PDF](https://link.springer.com/article/10.1023/A:1022689900470)
 
-### Case-Based Reasoning
+</details>
+
+<details>
+<summary><strong>📖 Case-Based Reasoning</strong></summary>
 
 3. **Kolodner, J.** (1993). *Case-Based Reasoning*. Morgan Kaufmann.
    - [Amazon](https://www.amazon.com/Case-Based-Reasoning-Janet-Kolodner/dp/1558602372)
@@ -573,11 +577,16 @@ Understanding instance-based learning prepares you for:
 4. **Aamodt, A., & Plaza, E.** (1994). Case-based reasoning: Foundational issues, methodological variations, and system approaches. *AI Communications*, 7(1), 39-59.
    - [PDF](https://www.researchgate.net/publication/220420529_Case-Based_Reasoning_Foundational_Issues_Methodological_Variations_and_System_Approaches)
 
-### Research Papers
+</details>
+
+<details>
+<summary><strong>🔬 Research Papers</strong></summary>
 
 5. **Cover, T., & Hart, P.** (1967). Nearest neighbor pattern classification. *IEEE Transactions on Information Theory*, 13(1), 21-27.
    - [DOI: 10.1109/TIT.1967.1053964](https://doi.org/10.1109/TIT.1967.1053964)
    - [IEEE Xplore](https://ieeexplore.ieee.org/document/1053964)
+
+</details>
 
 ---
 
@@ -587,7 +596,9 @@ Understanding instance-based learning prepares you for:
 <summary><strong>📚 Official Documentation</strong></summary>
 
 - **K-Nearest Neighbors** - [Scikit-learn KNN](https://scikit-learn.org/stable/modules/neighbors.html)
+
 - **Nearest Neighbors** - [Neighbor algorithms](https://scikit-learn.org/stable/modules/neighbors.html#nearest-neighbors-classification)
+
 - **Distance Metrics** - [Distance metrics reference](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise_distances.html)
 
 </details>
@@ -596,7 +607,9 @@ Understanding instance-based learning prepares you for:
 <summary><strong>📖 Essential Articles</strong></summary>
 
 - **KNN Tutorial** - [Complete KNN guide](https://machinelearningmastery.com/k-nearest-neighbors-for-machine-learning/)
+
 - **Choosing k in KNN** - [Selecting optimal k](https://towardsdatascience.com/how-to-find-the-optimal-value-of-k-in-knn-35d936e554eb)
+
 - **Distance Metrics** - [Understanding distance metrics](https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa)
 
 </details>
@@ -605,7 +618,9 @@ Understanding instance-based learning prepares you for:
 <summary><strong>🎓 Learning Resources</strong></summary>
 
 - **Curse of Dimensionality** - [Understanding high-dimensional problems](https://towardsdatascience.com/the-curse-of-dimensionality-50a6b05cedbf)
+
 - **KNN Optimization** - [Optimizing KNN performance](https://scikit-learn.org/stable/modules/neighbors.html#nearest-neighbors-algorithms)
+
 - **Weighted KNN** - [Distance-weighted KNN](https://scikit-learn.org/stable/modules/neighbors.html#classification)
 
 </details>
@@ -614,7 +629,9 @@ Understanding instance-based learning prepares you for:
 <summary><strong>💡 Best Practices</strong></summary>
 
 - **Feature Scaling** - [Scaling for KNN](https://scikit-learn.org/stable/modules/preprocessing.html#standardization-or-mean-removal-and-variance-scaling)
+
 - **KNN Best Practices** - [KNN best practices](https://scikit-learn.org/stable/modules/neighbors.html#tips-on-using-knn)
+
 - **Handling High Dimensions** - [Dimensionality reduction for KNN](https://scikit-learn.org/stable/modules/decomposition.html)
 
 </details>
@@ -623,6 +640,7 @@ Understanding instance-based learning prepares you for:
 <summary><strong>🔬 Research Papers</strong></summary>
 
 - **Nearest Neighbor Classification** - [Cover & Hart (1967)](https://doi.org/10.1109/TIT.1967.1053964) - Foundational KNN paper
+
 - **Instance-Based Learning** - [Aha et al. (1991)](https://doi.org/10.1023/A:1022689900470) - Instance-based learning algorithms
 
 </details>

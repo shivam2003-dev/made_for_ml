@@ -583,7 +583,8 @@ Understanding neural networks prepares you for:
 
 ## References / Further Reading
 
-### Primary References
+<details>
+<summary><strong>📚 Primary References</strong></summary>
 
 1. **Mitchell, T. M.** (1997). *Machine Learning*.
    - Chapter 4: Artificial Neural Networks
@@ -591,7 +592,10 @@ Understanding neural networks prepares you for:
 2. **Bishop, C. M.** (2006). *Pattern Recognition & Machine Learning*.
    - Chapter 5: Neural Networks
 
-### Deep Learning
+</details>
+
+<details>
+<summary><strong>📖 Deep Learning</strong></summary>
 
 3. **Goodfellow, I., Bengio, Y., & Courville, A.** (2016). *Deep Learning*. MIT Press.
    - [MIT Press](https://mitpress.mit.edu/9780262035613/deep-learning/)
@@ -602,7 +606,10 @@ Understanding neural networks prepares you for:
    - [Free Online Book](http://neuralnetworksanddeeplearning.com/)
    - [GitHub](https://github.com/mnielsen/neural-networks-and-deep-learning)
 
-### Research Papers
+</details>
+
+<details>
+<summary><strong>🔬 Research Papers</strong></summary>
 
 5. **Rumelhart, D. E., Hinton, G. E., & Williams, R. J.** (1986). Learning representations by back-propagating errors. *Nature*, 323(6088), 533-536.
    - [DOI: 10.1038/323533a0](https://doi.org/10.1038/323533a0)
@@ -613,6 +620,8 @@ Understanding neural networks prepares you for:
    - [DOI: 10.1016/0893-6080(89)90020-8](https://doi.org/10.1016/0893-6080(89)90020-8)
    - [PDF](https://www.sciencedirect.com/science/article/abs/pii/0893608089900208)
 
+</details>
+
 ---
 
 ## Recommended Reads
@@ -621,7 +630,9 @@ Understanding neural networks prepares you for:
 <summary><strong>📚 Official Documentation</strong></summary>
 
 - **Neural Networks** - [PyTorch neural networks](https://pytorch.org/docs/stable/nn.html)
+
 - **TensorFlow Keras** - [Keras API reference](https://www.tensorflow.org/api_docs/python/tf/keras)
+
 - **Activation Functions** - [Activation functions guide](https://pytorch.org/docs/stable/nn.html#activation-functions)
 
 </details>
@@ -630,7 +641,9 @@ Understanding neural networks prepares you for:
 <summary><strong>📖 Essential Articles</strong></summary>
 
 - **Neural Networks Tutorial** - [Complete NN guide](https://machinelearningmastery.com/neural-networks-crash-course/)
+
 - **Backpropagation Explained** - [Understanding backpropagation](https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd)
+
 - **Activation Functions** - [Choosing activation functions](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)
 
 </details>
@@ -639,7 +652,9 @@ Understanding neural networks prepares you for:
 <summary><strong>🎓 Learning Resources</strong></summary>
 
 - **Neural Networks Course** - [Andrew Ng's Deep Learning](https://www.coursera.org/specializations/deep-learning)
+
 - **Backpropagation Tutorial** - [Step-by-step backpropagation](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+
 - **Neural Network Playground** - [Interactive NN visualization](https://playground.tensorflow.org/)
 
 </details>
@@ -648,7 +663,9 @@ Understanding neural networks prepares you for:
 <summary><strong>💡 Best Practices</strong></summary>
 
 - **Weight Initialization** - [Initialization strategies](https://pytorch.org/docs/stable/nn.init.html)
+
 - **Gradient Clipping** - [Preventing gradient explosion](https://pytorch.org/docs/stable/generated/torch.nn.utils.clip_grad_norm_.html)
+
 - **Learning Rate Scheduling** - [LR scheduling strategies](https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate)
 
 </details>
@@ -657,6 +674,7 @@ Understanding neural networks prepares you for:
 <summary><strong>🔬 Research Papers</strong></summary>
 
 - **Backpropagation** - [Rumelhart et al. (1986)](https://doi.org/10.1038/323533a0) - Learning representations by back-propagating errors
+
 - **Universal Approximation** - [Hornik et al. (1989)](https://doi.org/10.1016/0893-6080(89)90020-8) - Multilayer networks as universal approximators
 - **Deep Learning Book** - [Goodfellow et al. (2016)](https://www.deeplearningbook.org/) - Comprehensive deep learning reference
 
