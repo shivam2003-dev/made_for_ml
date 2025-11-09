@@ -1,10 +1,10 @@
 site_name: Machine Learning - Postgraduate Course
 site_description: Comprehensive Machine Learning course for M.Tech/PhD students
 site_author: Course Designer
-site_url: https://yourusername.github.io/made_for_ml
+site_url: https://shivam2003-dev.github.io/made_for_ml
 
 repo_name: made_for_ml
-repo_url: https://github.com/yourusername/made_for_ml
+repo_url: https://github.com/shivam2003-dev/made_for_ml
 edit_uri: edit/main/docs/
 
 theme:
