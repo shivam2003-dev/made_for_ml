@@ -79,7 +79,16 @@ mkdocs build
 
 The site will be generated in the `site/` directory.
 
-**To deploy to GitHub Pages**:
+**To build static site**:
+```bash
+mkdocs build
+```
+
+The site will be generated in the `site/` directory.
+
+**Automatic Deployment**: The course is automatically deployed to GitHub Pages via GitHub Actions whenever you push to the `main` branch. No manual deployment needed!
+
+**Manual deployment** (if needed):
 ```bash
 mkdocs gh-deploy
 ```
