@@ -556,96 +556,72 @@ Understanding instance-based learning prepares you for:
 
 ## References / Further Reading
 
-<details>
-<summary><strong>📚 Primary References</strong></summary>
+??? note "📚 Primary References"
 
-1. **Mitchell, T. M.** (1997). *Machine Learning*.
-   - Chapter 8: Instance-Based Learning
+    1. **Mitchell, T. M.** (1997). *Machine Learning*.
+       - Chapter 8: Instance-Based Learning
 
-2. **Aha, D. W., Kibler, D., & Albert, M. K.** (1991). Instance-based learning algorithms. *Machine Learning*, 6(1), 37-66.
-   - [DOI: 10.1023/A:1022689900470](https://doi.org/10.1023/A:1022689900470)
-   - [PDF](https://link.springer.com/article/10.1023/A:1022689900470)
+    2. **Aha, D. W., Kibler, D., & Albert, M. K.** (1991). Instance-based learning algorithms. *Machine Learning*, 6(1), 37-66.
+       - [DOI: 10.1023/A:1022689900470](https://doi.org/10.1023/A:1022689900470)
+       - [PDF](https://link.springer.com/article/10.1023/A:1022689900470)
 
-</details>
+??? note "📖 Case-Based Reasoning"
 
-<details>
-<summary><strong>📖 Case-Based Reasoning</strong></summary>
+    3. **Kolodner, J.** (1993). *Case-Based Reasoning*. Morgan Kaufmann.
+       - [Amazon](https://www.amazon.com/Case-Based-Reasoning-Janet-Kolodner/dp/1558602372)
 
-3. **Kolodner, J.** (1993). *Case-Based Reasoning*. Morgan Kaufmann.
-   - [Amazon](https://www.amazon.com/Case-Based-Reasoning-Janet-Kolodner/dp/1558602372)
+    4. **Aamodt, A., & Plaza, E.** (1994). Case-based reasoning: Foundational issues, methodological variations, and system approaches. *AI Communications*, 7(1), 39-59.
+       - [PDF](https://www.researchgate.net/publication/220420529_Case-Based_Reasoning_Foundational_Issues_Methodological_Variations_and_System_Approaches)
 
-4. **Aamodt, A., & Plaza, E.** (1994). Case-based reasoning: Foundational issues, methodological variations, and system approaches. *AI Communications*, 7(1), 39-59.
-   - [PDF](https://www.researchgate.net/publication/220420529_Case-Based_Reasoning_Foundational_Issues_Methodological_Variations_and_System_Approaches)
+??? note "🔬 Research Papers"
 
-</details>
+    5. **Cover, T., & Hart, P.** (1967). Nearest neighbor pattern classification. *IEEE Transactions on Information Theory*, 13(1), 21-27.
+       - [DOI: 10.1109/TIT.1967.1053964](https://doi.org/10.1109/TIT.1967.1053964)
+       - [IEEE Xplore](https://ieeexplore.ieee.org/document/1053964)
 
-<details>
-<summary><strong>🔬 Research Papers</strong></summary>
-
-5. **Cover, T., & Hart, P.** (1967). Nearest neighbor pattern classification. *IEEE Transactions on Information Theory*, 13(1), 21-27.
-   - [DOI: 10.1109/TIT.1967.1053964](https://doi.org/10.1109/TIT.1967.1053964)
-   - [IEEE Xplore](https://ieeexplore.ieee.org/document/1053964)
-
-</details>
-
----
+    ---
 
 ## Recommended Reads
 
-<details>
-<summary><strong>📚 Official Documentation</strong></summary>
+??? note "📚 Official Documentation"
 
-- **K-Nearest Neighbors** - [Scikit-learn KNN](https://scikit-learn.org/stable/modules/neighbors.html)
+    - **K-Nearest Neighbors** - [Scikit-learn KNN](https://scikit-learn.org/stable/modules/neighbors.html)
 
-- **Nearest Neighbors** - [Neighbor algorithms](https://scikit-learn.org/stable/modules/neighbors.html#nearest-neighbors-classification)
+    - **Nearest Neighbors** - [Neighbor algorithms](https://scikit-learn.org/stable/modules/neighbors.html#nearest-neighbors-classification)
 
-- **Distance Metrics** - [Distance metrics reference](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise_distances.html)
+    - **Distance Metrics** - [Distance metrics reference](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise_distances.html)
 
-</details>
+??? note "📖 Essential Articles"
 
-<details>
-<summary><strong>📖 Essential Articles</strong></summary>
+    - **KNN Tutorial** - [Complete KNN guide](https://machinelearningmastery.com/k-nearest-neighbors-for-machine-learning/)
 
-- **KNN Tutorial** - [Complete KNN guide](https://machinelearningmastery.com/k-nearest-neighbors-for-machine-learning/)
+    - **Choosing k in KNN** - [Selecting optimal k](https://towardsdatascience.com/how-to-find-the-optimal-value-of-k-in-knn-35d936e554eb)
 
-- **Choosing k in KNN** - [Selecting optimal k](https://towardsdatascience.com/how-to-find-the-optimal-value-of-k-in-knn-35d936e554eb)
+    - **Distance Metrics** - [Understanding distance metrics](https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa)
 
-- **Distance Metrics** - [Understanding distance metrics](https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa)
+??? note "🎓 Learning Resources"
 
-</details>
+    - **Curse of Dimensionality** - [Understanding high-dimensional problems](https://towardsdatascience.com/the-curse-of-dimensionality-50a6b05cedbf)
 
-<details>
-<summary><strong>🎓 Learning Resources</strong></summary>
+    - **KNN Optimization** - [Optimizing KNN performance](https://scikit-learn.org/stable/modules/neighbors.html#nearest-neighbors-algorithms)
 
-- **Curse of Dimensionality** - [Understanding high-dimensional problems](https://towardsdatascience.com/the-curse-of-dimensionality-50a6b05cedbf)
+    - **Weighted KNN** - [Distance-weighted KNN](https://scikit-learn.org/stable/modules/neighbors.html#classification)
 
-- **KNN Optimization** - [Optimizing KNN performance](https://scikit-learn.org/stable/modules/neighbors.html#nearest-neighbors-algorithms)
+??? note "💡 Best Practices"
 
-- **Weighted KNN** - [Distance-weighted KNN](https://scikit-learn.org/stable/modules/neighbors.html#classification)
+    - **Feature Scaling** - [Scaling for KNN](https://scikit-learn.org/stable/modules/preprocessing.html#standardization-or-mean-removal-and-variance-scaling)
 
-</details>
+    - **KNN Best Practices** - [KNN best practices](https://scikit-learn.org/stable/modules/neighbors.html#tips-on-using-knn)
 
-<details>
-<summary><strong>💡 Best Practices</strong></summary>
+    - **Handling High Dimensions** - [Dimensionality reduction for KNN](https://scikit-learn.org/stable/modules/decomposition.html)
 
-- **Feature Scaling** - [Scaling for KNN](https://scikit-learn.org/stable/modules/preprocessing.html#standardization-or-mean-removal-and-variance-scaling)
+??? note "🔬 Research Papers"
 
-- **KNN Best Practices** - [KNN best practices](https://scikit-learn.org/stable/modules/neighbors.html#tips-on-using-knn)
+    - **Nearest Neighbor Classification** - [Cover & Hart (1967)](https://doi.org/10.1109/TIT.1967.1053964) - Foundational KNN paper
 
-- **Handling High Dimensions** - [Dimensionality reduction for KNN](https://scikit-learn.org/stable/modules/decomposition.html)
+    - **Instance-Based Learning** - [Aha et al. (1991)](https://doi.org/10.1023/A:1022689900470) - Instance-based learning algorithms
 
-</details>
+    ---
 
-<details>
-<summary><strong>🔬 Research Papers</strong></summary>
-
-- **Nearest Neighbor Classification** - [Cover & Hart (1967)](https://doi.org/10.1109/TIT.1967.1053964) - Foundational KNN paper
-
-- **Instance-Based Learning** - [Aha et al. (1991)](https://doi.org/10.1023/A:1022689900470) - Instance-based learning algorithms
-
-</details>
-
----
-
-**Previous Chapter**: [Chapter 6: Decision Trees](06_decision_trees.md) | **Next Chapter**: [Chapter 8: Support Vector Machines](08_svm.md)
+    **Previous Chapter**: [Chapter 6: Decision Trees](06_decision_trees.md) | **Next Chapter**: [Chapter 8: Support Vector Machines](08_svm.md)
 

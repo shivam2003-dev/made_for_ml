@@ -531,102 +531,78 @@ Understanding these foundations prepares you for:
 
 ## References / Further Reading
 
-<details>
-<summary><strong>📚 Primary References</strong></summary>
+??? note "📚 Primary References"
 
-1. **Mitchell, T. M.** (1997). *Machine Learning*. Chapter 1: Introduction. McGraw-Hill.
-   - [Amazon](https://www.amazon.com/Machine-Learning-Tom-M-Mitchell/dp/0070428077)
-   - [McGraw-Hill](https://www.mheducation.com/highered/product/machine-learning-mitchell/M9780070428072.html)
+    1. **Mitchell, T. M.** (1997). *Machine Learning*. Chapter 1: Introduction. McGraw-Hill.
+       - [Amazon](https://www.amazon.com/Machine-Learning-Tom-M-Mitchell/dp/0070428077)
+       - [McGraw-Hill](https://www.mheducation.com/highered/product/machine-learning-mitchell/M9780070428072.html)
 
-2. **Bishop, C. M.** (2006). *Pattern Recognition & Machine Learning*. Chapter 1: Introduction. Springer.
-   - [Springer](https://link.springer.com/book/10.1007/978-0-387-45528-0)
-   - [Free PDF (Author's Website)](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
-   - [Amazon](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
+    2. **Bishop, C. M.** (2006). *Pattern Recognition & Machine Learning*. Chapter 1: Introduction. Springer.
+       - [Springer](https://link.springer.com/book/10.1007/978-0-387-45528-0)
+       - [Free PDF (Author's Website)](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+       - [Amazon](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
 
-</details>
+??? note "📖 Additional Reading"
 
-<details>
-<summary><strong>📖 Additional Reading</strong></summary>
+    3. **Hastie, T., Tibshirani, R., & Friedman, J.** (2009). *The Elements of Statistical Learning*. Chapter 1: Introduction. Springer.
+       - [Springer](https://link.springer.com/book/10.1007/978-0-387-84858-7)
+       - [Free PDF (Author's Website)](https://hastie.su.domains/ElemStatLearn/)
+       - [Amazon](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)
 
-3. **Hastie, T., Tibshirani, R., & Friedman, J.** (2009). *The Elements of Statistical Learning*. Chapter 1: Introduction. Springer.
-   - [Springer](https://link.springer.com/book/10.1007/978-0-387-84858-7)
-   - [Free PDF (Author's Website)](https://hastie.su.domains/ElemStatLearn/)
-   - [Amazon](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)
+    4. **Mohri, M., Rostamizadeh, A., & Talwalkar, A.** (2018). *Foundations of Machine Learning* (2nd Edition). Chapter 1: Introduction. MIT Press.
+       - [MIT Press](https://mitpress.mit.edu/9780262039406/foundations-of-machine-learning-second-edition/)
+       - [Free PDF (Author's Website)](https://cs.nyu.edu/~mohri/mlbook/)
+       - [Amazon](https://www.amazon.com/Foundations-Machine-Learning-Adaptive-Computation/dp/0262039400)
 
-4. **Mohri, M., Rostamizadeh, A., & Talwalkar, A.** (2018). *Foundations of Machine Learning* (2nd Edition). Chapter 1: Introduction. MIT Press.
-   - [MIT Press](https://mitpress.mit.edu/9780262039406/foundations-of-machine-learning-second-edition/)
-   - [Free PDF (Author's Website)](https://cs.nyu.edu/~mohri/mlbook/)
-   - [Amazon](https://www.amazon.com/Foundations-Machine-Learning-Adaptive-Computation/dp/0262039400)
+??? note "🔬 Research Papers"
 
-</details>
+    5. **Wolpert, D. H.** (1996). The lack of a priori distinctions between learning algorithms. *Neural Computation*, 8(7), 1341-1390. (No Free Lunch Theorem)
+       - [DOI: 10.1162/neco.1996.8.7.1341](https://doi.org/10.1162/neco.1996.8.7.1341)
+       - [PDF](https://direct.mit.edu/neco/article-abstract/8/7/1341/6108/The-Lack-of-A-Priori-Distinctions-Between-Learning)
 
-<details>
-<summary><strong>🔬 Research Papers</strong></summary>
-
-5. **Wolpert, D. H.** (1996). The lack of a priori distinctions between learning algorithms. *Neural Computation*, 8(7), 1341-1390. (No Free Lunch Theorem)
-   - [DOI: 10.1162/neco.1996.8.7.1341](https://doi.org/10.1162/neco.1996.8.7.1341)
-   - [PDF](https://direct.mit.edu/neco/article-abstract/8/7/1341/6108/The-Lack-of-A-Priori-Distinctions-Between-Learning)
-
-</details>
-
----
+    ---
 
 ## Recommended Reads
 
-<details>
-<summary><strong>📚 Official Documentation</strong></summary>
+??? note "📚 Official Documentation"
 
-- **Scikit-learn User Guide** - [Complete ML guide](https://scikit-learn.org/stable/user_guide.html)
+    - **Scikit-learn User Guide** - [Complete ML guide](https://scikit-learn.org/stable/user_guide.html)
 
-- **NumPy Documentation** - [Array operations](https://numpy.org/doc/stable/)
+    - **NumPy Documentation** - [Array operations](https://numpy.org/doc/stable/)
 
-- **Pandas Documentation** - [Data manipulation](https://pandas.pydata.org/docs/)
-- **Matplotlib Documentation** - [Data visualization](https://matplotlib.org/stable/contents.html)
+    - **Pandas Documentation** - [Data manipulation](https://pandas.pydata.org/docs/)
+    - **Matplotlib Documentation** - [Data visualization](https://matplotlib.org/stable/contents.html)
 
-</details>
+??? note "📖 Essential Articles"
 
-<details>
-<summary><strong>📖 Essential Articles</strong></summary>
+    - **Machine Learning Basics** - [Google's ML Crash Course](https://developers.google.com/machine-learning/crash-course)
 
-- **Machine Learning Basics** - [Google's ML Crash Course](https://developers.google.com/machine-learning/crash-course)
+    - **Introduction to ML** - [Stanford CS229 Notes](https://cs229.stanford.edu/syllabus.html)
 
-- **Introduction to ML** - [Stanford CS229 Notes](https://cs229.stanford.edu/syllabus.html)
+    - **ML Fundamentals** - [Andrew Ng's Course Notes](https://www.coursera.org/learn/machine-learning)
 
-- **ML Fundamentals** - [Andrew Ng's Course Notes](https://www.coursera.org/learn/machine-learning)
+??? note "🎓 Learning Resources"
 
-</details>
+    - **ML Glossary** - [Google's ML Glossary](https://developers.google.com/machine-learning/glossary)
 
-<details>
-<summary><strong>🎓 Learning Resources</strong></summary>
+    - **ML Concepts** - [AWS ML Concepts](https://docs.aws.amazon.com/machine-learning/latest/dg/machine-learning-concepts.html)
 
-- **ML Glossary** - [Google's ML Glossary](https://developers.google.com/machine-learning/glossary)
+    - **Statistical Learning** - [Introduction to Statistical Learning](https://www.statlearning.com/)
 
-- **ML Concepts** - [AWS ML Concepts](https://docs.aws.amazon.com/machine-learning/latest/dg/machine-learning-concepts.html)
+??? note "💡 Best Practices"
 
-- **Statistical Learning** - [Introduction to Statistical Learning](https://www.statlearning.com/)
+    - **ML Best Practices** - [Google's ML Guide](https://developers.google.com/machine-learning/guides)
 
-</details>
+    - **Data Preparation** - [Data preprocessing guide](https://scikit-learn.org/stable/modules/preprocessing.html)
 
-<details>
-<summary><strong>💡 Best Practices</strong></summary>
+    - **Model Evaluation** - [Evaluation metrics guide](https://scikit-learn.org/stable/modules/model_evaluation.html)
 
-- **ML Best Practices** - [Google's ML Guide](https://developers.google.com/machine-learning/guides)
+??? note "🔬 Research Papers"
 
-- **Data Preparation** - [Data preprocessing guide](https://scikit-learn.org/stable/modules/preprocessing.html)
+    - **No Free Lunch Theorem** - [Wolpert (1996)](https://doi.org/10.1162/neco.1996.8.7.1341) - Fundamental limits of learning algorithms
 
-- **Model Evaluation** - [Evaluation metrics guide](https://scikit-learn.org/stable/modules/model_evaluation.html)
+    - **Statistical Learning Theory** - [Vapnik (1998)](https://www.wiley.com/en-us/Statistical+Learning+Theory-p-9780471030034) - Theoretical foundations
 
-</details>
+    ---
 
-<details>
-<summary><strong>🔬 Research Papers</strong></summary>
-
-- **No Free Lunch Theorem** - [Wolpert (1996)](https://doi.org/10.1162/neco.1996.8.7.1341) - Fundamental limits of learning algorithms
-
-- **Statistical Learning Theory** - [Vapnik (1998)](https://www.wiley.com/en-us/Statistical+Learning+Theory-p-9780471030034) - Theoretical foundations
-
-</details>
-
----
-
-**Next Chapter**: [Chapter 2: Learning Paradigms](02_learning_paradigms.md)
+    **Next Chapter**: [Chapter 2: Learning Paradigms](02_learning_paradigms.md)

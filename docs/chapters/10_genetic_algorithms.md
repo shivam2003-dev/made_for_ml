@@ -641,103 +641,79 @@ Understanding genetic algorithms prepares you for:
 
 ## References / Further Reading
 
-<details>
-<summary><strong>📚 Primary References</strong></summary>
+??? note "📚 Primary References"
 
-1. **Mitchell, M.** (1998). *An Introduction to Genetic Algorithms*. MIT Press.
-   - [MIT Press](https://mitpress.mit.edu/9780262631853/an-introduction-to-genetic-algorithms/)
-   - [Amazon](https://www.amazon.com/Introduction-Genetic-Algorithms-Complex-Adaptive/dp/0262631857)
+    1. **Mitchell, M.** (1998). *An Introduction to Genetic Algorithms*. MIT Press.
+       - [MIT Press](https://mitpress.mit.edu/9780262631853/an-introduction-to-genetic-algorithms/)
+       - [Amazon](https://www.amazon.com/Introduction-Genetic-Algorithms-Complex-Adaptive/dp/0262631857)
 
-2. **Goldberg, D. E.** (1989). *Genetic Algorithms in Search, Optimization, and Machine Learning*. Addison-Wesley.
-   - [Amazon](https://www.amazon.com/Genetic-Algorithms-Search-Optimization-Machine/dp/0201157675)
-   - [Pearson](https://www.pearson.com/en-us/subject-catalog/p/genetic-algorithms-in-search-optimization-and-machine-learning/P200000003431)
+    2. **Goldberg, D. E.** (1989). *Genetic Algorithms in Search, Optimization, and Machine Learning*. Addison-Wesley.
+       - [Amazon](https://www.amazon.com/Genetic-Algorithms-Search-Optimization-Machine/dp/0201157675)
+       - [Pearson](https://www.pearson.com/en-us/subject-catalog/p/genetic-algorithms-in-search-optimization-and-machine-learning/P200000003431)
 
-</details>
+??? note "🔬 Research Papers"
 
-<details>
-<summary><strong>🔬 Research Papers</strong></summary>
+    3. **Holland, J. H.** (1975). *Adaptation in Natural and Artificial Systems*. University of Michigan Press.
+       - [Amazon](https://www.amazon.com/Adaptation-Natural-Artificial-Systems-Introductory/dp/0262581116)
+       - [MIT Press (Reprint)](https://mitpress.mit.edu/9780262581110/adaptation-in-natural-and-artificial-systems/)
 
-3. **Holland, J. H.** (1975). *Adaptation in Natural and Artificial Systems*. University of Michigan Press.
-   - [Amazon](https://www.amazon.com/Adaptation-Natural-Artificial-Systems-Introductory/dp/0262581116)
-   - [MIT Press (Reprint)](https://mitpress.mit.edu/9780262581110/adaptation-in-natural-and-artificial-systems/)
+    4. **Deb, K., Pratap, A., Agarwal, S., & Meyarivan, T.** (2002). A fast and elitist multiobjective genetic algorithm: NSGA-II. *IEEE Transactions on Evolutionary Computation*, 6(2), 182-197.
+       - [DOI: 10.1109/4235.996017](https://doi.org/10.1109/4235.996017)
+       - [IEEE Xplore](https://ieeexplore.ieee.org/document/996017)
 
-4. **Deb, K., Pratap, A., Agarwal, S., & Meyarivan, T.** (2002). A fast and elitist multiobjective genetic algorithm: NSGA-II. *IEEE Transactions on Evolutionary Computation*, 6(2), 182-197.
-   - [DOI: 10.1109/4235.996017](https://doi.org/10.1109/4235.996017)
-   - [IEEE Xplore](https://ieeexplore.ieee.org/document/996017)
+??? note "📖 Applications"
 
-</details>
+    5. **Whitley, D.** (1994). A genetic algorithm tutorial. *Statistics and Computing*, 4(2), 65-85.
+       - [DOI: 10.1007/BF00175354](https://doi.org/10.1007/BF00175354)
+       - [PDF](https://link.springer.com/article/10.1007/BF00175354)
 
-<details>
-<summary><strong>📖 Applications</strong></summary>
-
-5. **Whitley, D.** (1994). A genetic algorithm tutorial. *Statistics and Computing*, 4(2), 65-85.
-   - [DOI: 10.1007/BF00175354](https://doi.org/10.1007/BF00175354)
-   - [PDF](https://link.springer.com/article/10.1007/BF00175354)
-
-</details>
-
----
+    ---
 
 ## Recommended Reads
 
-<details>
-<summary><strong>📚 Official Documentation</strong></summary>
+??? note "📚 Official Documentation"
 
-- **DEAP Framework** - [Distributed Evolutionary Algorithms](https://deap.readthedocs.io/)
+    - **DEAP Framework** - [Distributed Evolutionary Algorithms](https://deap.readthedocs.io/)
 
-- **PyGAD** - [Python Genetic Algorithm](https://pygad.readthedocs.io/)
+    - **PyGAD** - [Python Genetic Algorithm](https://pygad.readthedocs.io/)
 
-- **Scikit-optimize** - [Bayesian optimization](https://scikit-optimize.github.io/stable/)
+    - **Scikit-optimize** - [Bayesian optimization](https://scikit-optimize.github.io/stable/)
 
-</details>
+??? note "📖 Essential Articles"
 
-<details>
-<summary><strong>📖 Essential Articles</strong></summary>
+    - **Genetic Algorithms Tutorial** - [Complete GA guide](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3)
 
-- **Genetic Algorithms Tutorial** - [Complete GA guide](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3)
+    - **GA Implementation** - [Implementing GAs from scratch](https://machinelearningmastery.com/simple-genetic-algorithm-from-scratch-in-python/)
 
-- **GA Implementation** - [Implementing GAs from scratch](https://machinelearningmastery.com/simple-genetic-algorithm-from-scratch-in-python/)
+    - **Evolutionary Algorithms** - [Evolutionary computation overview](https://towardsdatascience.com/introduction-to-evolutionary-algorithms-a8594b484ac)
 
-- **Evolutionary Algorithms** - [Evolutionary computation overview](https://towardsdatascience.com/introduction-to-evolutionary-algorithms-a8594b484ac)
+??? note "🎓 Learning Resources"
 
-</details>
+    - **Genetic Algorithms Course** - [GA fundamentals](https://www.coursera.org/learn/genetic-algorithms)
 
-<details>
-<summary><strong>🎓 Learning Resources</strong></summary>
+    - **Evolutionary Computation** - [Evolutionary algorithms tutorial](https://www.tutorialspoint.com/genetic_algorithms/index.htm)
 
-- **Genetic Algorithms Course** - [GA fundamentals](https://www.coursera.org/learn/genetic-algorithms)
+    - **Optimization with GAs** - [GA for optimization](https://machinelearningmastery.com/genetic-algorithms-for-real-world-optimization-problems/)
 
-- **Evolutionary Computation** - [Evolutionary algorithms tutorial](https://www.tutorialspoint.com/genetic_algorithms/index.htm)
+??? note "💡 Best Practices"
 
-- **Optimization with GAs** - [GA for optimization](https://machinelearningmastery.com/genetic-algorithms-for-real-world-optimization-problems/)
+    - **Parameter Tuning** - [GA hyperparameter selection](https://towardsdatascience.com/genetic-algorithm-parameters-5e2891c7a7c4)
 
-</details>
+    - **Selection Strategies** - [Selection operator comparison](https://towardsdatascience.com/genetic-algorithm-selection-methods-8b0d0c0e5c1)
 
-<details>
-<summary><strong>💡 Best Practices</strong></summary>
+    - **Convergence Criteria** - [Stopping conditions](https://towardsdatascience.com/genetic-algorithm-convergence-criteria-8b0d0c0e5c1)
 
-- **Parameter Tuning** - [GA hyperparameter selection](https://towardsdatascience.com/genetic-algorithm-parameters-5e2891c7a7c4)
+??? note "🔬 Research Papers"
 
-- **Selection Strategies** - [Selection operator comparison](https://towardsdatascience.com/genetic-algorithm-selection-methods-8b0d0c0e5c1)
+    - **Genetic Algorithms** - [Holland (1975)](https://mitpress.mit.edu/9780262581110/adaptation-in-natural-and-artificial-systems/) - Adaptation in natural and artificial systems
 
-- **Convergence Criteria** - [Stopping conditions](https://towardsdatascience.com/genetic-algorithm-convergence-criteria-8b0d0c0e5c1)
+    - **NSGA-II** - [Deb et al. (2002)](https://doi.org/10.1109/4235.996017) - Fast and elitist multiobjective genetic algorithm
 
-</details>
+    - **GA Tutorial** - [Whitley (1994)](https://doi.org/10.1007/BF00175354) - Comprehensive GA tutorial
 
-<details>
-<summary><strong>🔬 Research Papers</strong></summary>
+    ---
 
-- **Genetic Algorithms** - [Holland (1975)](https://mitpress.mit.edu/9780262581110/adaptation-in-natural-and-artificial-systems/) - Adaptation in natural and artificial systems
+    **Previous Chapter**: [Chapter 9: Neural Networks](09_neural_networks.md)
 
-- **NSGA-II** - [Deb et al. (2002)](https://doi.org/10.1109/4235.996017) - Fast and elitist multiobjective genetic algorithm
-
-- **GA Tutorial** - [Whitley (1994)](https://doi.org/10.1007/BF00175354) - Comprehensive GA tutorial
-
-</details>
-
----
-
-**Previous Chapter**: [Chapter 9: Neural Networks](09_neural_networks.md)
-
-**Back to**: [Course Home](index.md)
+    **Back to**: [Course Home](index.md)
 

@@ -459,90 +459,69 @@ Understanding model selection prepares you for:
 
 ## References / Further Reading
 
-<details>
-<summary><strong>📚 Primary References</strong></summary>
+??? note "📚 Primary References"
 
-1. **Hastie, T., Tibshirani, R., & Friedman, J.** (2009). *The Elements of Statistical Learning*. 
-   - Chapter 7: Model Assessment and Selection
-   - Chapter 2: Overview of Supervised Learning (Bias-Variance)
+    1. **Hastie, T., Tibshirani, R., & Friedman, J.** (2009). *The Elements of Statistical Learning*. 
+       - Chapter 7: Model Assessment and Selection
+       - Chapter 2: Overview of Supervised Learning (Bias-Variance)
 
-2. **Bishop, C. M.** (2006). *Pattern Recognition & Machine Learning*.
-   - Chapter 1: Introduction (Model Selection)
-   - Chapter 3: Linear Models for Regression (Regularization)
+    2. **Bishop, C. M.** (2006). *Pattern Recognition & Machine Learning*.
+       - Chapter 1: Introduction (Model Selection)
+       - Chapter 3: Linear Models for Regression (Regularization)
 
-</details>
+??? note "🔬 Research Papers"
 
-<details>
-<summary><strong>🔬 Research Papers</strong></summary>
+    3. **Kohavi, R.** (1995). A study of cross-validation and bootstrap for accuracy estimation and model selection. *IJCAI*, 14(2), 1137-1145.
+       - [PDF](https://www.ijcai.org/Proceedings/95-2/Papers/016.pdf)
+       - [CiteSeerX](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.48.529)
 
-3. **Kohavi, R.** (1995). A study of cross-validation and bootstrap for accuracy estimation and model selection. *IJCAI*, 14(2), 1137-1145.
-   - [PDF](https://www.ijcai.org/Proceedings/95-2/Papers/016.pdf)
-   - [CiteSeerX](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.48.529)
+    4. **Geman, S., Bienenstock, E., & Doursat, R.** (1992). Neural networks and the bias/variance dilemma. *Neural Computation*, 4(1), 1-58.
+       - [DOI: 10.1162/neco.1992.4.1.1](https://doi.org/10.1162/neco.1992.4.1.1)
+       - [PDF](https://direct.mit.edu/neco/article-abstract/4/1/1/5515/Neural-Networks-and-the-Bias-Variance-Dilemma)
 
-4. **Geman, S., Bienenstock, E., & Doursat, R.** (1992). Neural networks and the bias/variance dilemma. *Neural Computation*, 4(1), 1-58.
-   - [DOI: 10.1162/neco.1992.4.1.1](https://doi.org/10.1162/neco.1992.4.1.1)
-   - [PDF](https://direct.mit.edu/neco/article-abstract/4/1/1/5515/Neural-Networks-and-the-Bias-Variance-Dilemma)
-
-</details>
-
----
+    ---
 
 ## Recommended Reads
 
-<details>
-<summary><strong>📚 Official Documentation</strong></summary>
+??? note "📚 Official Documentation"
 
-- **Model Selection** - [Scikit-learn model selection guide](https://scikit-learn.org/stable/model_selection.html)
+    - **Model Selection** - [Scikit-learn model selection guide](https://scikit-learn.org/stable/model_selection.html)
 
-- **Cross-Validation** - [Cross-validation documentation](https://scikit-learn.org/stable/modules/cross_validation.html)
+    - **Cross-Validation** - [Cross-validation documentation](https://scikit-learn.org/stable/modules/cross_validation.html)
 
-- **Metrics** - [Evaluation metrics reference](https://scikit-learn.org/stable/modules/model_evaluation.html)
+    - **Metrics** - [Evaluation metrics reference](https://scikit-learn.org/stable/modules/model_evaluation.html)
 
-</details>
+??? note "📖 Essential Articles"
 
-<details>
-<summary><strong>📖 Essential Articles</strong></summary>
+    - **Bias-Variance Tradeoff** - [Understanding bias-variance](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
 
-- **Bias-Variance Tradeoff** - [Understanding bias-variance](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
+    - **Cross-Validation Guide** - [Complete CV guide](https://machinelearningmastery.com/k-fold-cross-validation/)
 
-- **Cross-Validation Guide** - [Complete CV guide](https://machinelearningmastery.com/k-fold-cross-validation/)
+    - **Hyperparameter Tuning** - [Hyperparameter optimization](https://scikit-learn.org/stable/modules/grid_search.html)
 
-- **Hyperparameter Tuning** - [Hyperparameter optimization](https://scikit-learn.org/stable/modules/grid_search.html)
+??? note "🎓 Learning Resources"
 
-</details>
+    - **Model Evaluation** - [Evaluation strategies](https://scikit-learn.org/stable/modules/model_evaluation.html#scoring-parameter)
 
-<details>
-<summary><strong>🎓 Learning Resources</strong></summary>
+    - **Learning Curves** - [Diagnosing model performance](https://scikit-learn.org/stable/auto_examples/model_selection/plot_learning_curve.html)
 
-- **Model Evaluation** - [Evaluation strategies](https://scikit-learn.org/stable/modules/model_evaluation.html#scoring-parameter)
+    - **Validation Strategies** - [Time series validation](https://scikit-learn.org/stable/modules/cross_validation.html#time-series-split)
 
-- **Learning Curves** - [Diagnosing model performance](https://scikit-learn.org/stable/auto_examples/model_selection/plot_learning_curve.html)
+??? note "💡 Best Practices"
 
-- **Validation Strategies** - [Time series validation](https://scikit-learn.org/stable/modules/cross_validation.html#time-series-split)
+    - **Avoiding Data Leakage** - [Data leakage prevention](https://machinelearningmastery.com/data-leakage-machine-learning/)
 
-</details>
+    - **Train-Validation-Test Split** - [Proper data splitting](https://scikit-learn.org/stable/modules/cross_validation.html#cross-validation-iterators)
 
-<details>
-<summary><strong>💡 Best Practices</strong></summary>
+    - **Model Selection Best Practices** - [Selection guidelines](https://scikit-learn.org/stable/modules/model_selection.html#model-selection)
 
-- **Avoiding Data Leakage** - [Data leakage prevention](https://machinelearningmastery.com/data-leakage-machine-learning/)
+??? note "🔬 Research Papers"
 
-- **Train-Validation-Test Split** - [Proper data splitting](https://scikit-learn.org/stable/modules/cross_validation.html#cross-validation-iterators)
+    - **Cross-Validation Study** - [Kohavi (1995)](https://www.ijcai.org/Proceedings/95-2/Papers/016.pdf) - CV and bootstrap for model selection
 
-- **Model Selection Best Practices** - [Selection guidelines](https://scikit-learn.org/stable/modules/model_selection.html#model-selection)
+    - **Bias-Variance Dilemma** - [Geman et al. (1992)](https://doi.org/10.1162/neco.1992.4.1.1) - Neural networks and bias-variance
 
-</details>
+    ---
 
-<details>
-<summary><strong>🔬 Research Papers</strong></summary>
-
-- **Cross-Validation Study** - [Kohavi (1995)](https://www.ijcai.org/Proceedings/95-2/Papers/016.pdf) - CV and bootstrap for model selection
-
-- **Bias-Variance Dilemma** - [Geman et al. (1992)](https://doi.org/10.1162/neco.1992.4.1.1) - Neural networks and bias-variance
-
-</details>
-
----
-
-**Previous Chapter**: [Chapter 2: Learning Paradigms](02_learning_paradigms.md) | **Next Chapter**: [Chapter 4: Bayesian Learning](04_bayesian_learning.md)
+    **Previous Chapter**: [Chapter 2: Learning Paradigms](02_learning_paradigms.md) | **Next Chapter**: [Chapter 4: Bayesian Learning](04_bayesian_learning.md)
 

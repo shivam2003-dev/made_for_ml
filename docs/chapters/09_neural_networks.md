@@ -583,104 +583,80 @@ Understanding neural networks prepares you for:
 
 ## References / Further Reading
 
-<details>
-<summary><strong>📚 Primary References</strong></summary>
+??? note "📚 Primary References"
 
-1. **Mitchell, T. M.** (1997). *Machine Learning*.
-   - Chapter 4: Artificial Neural Networks
+    1. **Mitchell, T. M.** (1997). *Machine Learning*.
+       - Chapter 4: Artificial Neural Networks
 
-2. **Bishop, C. M.** (2006). *Pattern Recognition & Machine Learning*.
-   - Chapter 5: Neural Networks
+    2. **Bishop, C. M.** (2006). *Pattern Recognition & Machine Learning*.
+       - Chapter 5: Neural Networks
 
-</details>
+??? note "📖 Deep Learning"
 
-<details>
-<summary><strong>📖 Deep Learning</strong></summary>
+    3. **Goodfellow, I., Bengio, Y., & Courville, A.** (2016). *Deep Learning*. MIT Press.
+       - [MIT Press](https://mitpress.mit.edu/9780262035613/deep-learning/)
+       - [Free Online Book](https://www.deeplearningbook.org/)
+       - [Amazon](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
 
-3. **Goodfellow, I., Bengio, Y., & Courville, A.** (2016). *Deep Learning*. MIT Press.
-   - [MIT Press](https://mitpress.mit.edu/9780262035613/deep-learning/)
-   - [Free Online Book](https://www.deeplearningbook.org/)
-   - [Amazon](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
+    4. **Nielsen, M.** (2015). *Neural Networks and Deep Learning*. Determination Press.
+       - [Free Online Book](http://neuralnetworksanddeeplearning.com/)
+       - [GitHub](https://github.com/mnielsen/neural-networks-and-deep-learning)
 
-4. **Nielsen, M.** (2015). *Neural Networks and Deep Learning*. Determination Press.
-   - [Free Online Book](http://neuralnetworksanddeeplearning.com/)
-   - [GitHub](https://github.com/mnielsen/neural-networks-and-deep-learning)
+??? note "🔬 Research Papers"
 
-</details>
+    5. **Rumelhart, D. E., Hinton, G. E., & Williams, R. J.** (1986). Learning representations by back-propagating errors. *Nature*, 323(6088), 533-536.
+       - [DOI: 10.1038/323533a0](https://doi.org/10.1038/323533a0)
+       - [Nature](https://www.nature.com/articles/323533a0)
+       - [PDF](https://www.nature.com/articles/323533a0.pdf)
 
-<details>
-<summary><strong>🔬 Research Papers</strong></summary>
+    6. **Hornik, K., Stinchcombe, M., & White, H.** (1989). Multilayer feedforward networks are universal approximators. *Neural Networks*, 2(5), 359-366.
+       - [DOI: 10.1016/0893-6080(89)90020-8](https://doi.org/10.1016/0893-6080(89)90020-8)
+       - [PDF](https://www.sciencedirect.com/science/article/abs/pii/0893608089900208)
 
-5. **Rumelhart, D. E., Hinton, G. E., & Williams, R. J.** (1986). Learning representations by back-propagating errors. *Nature*, 323(6088), 533-536.
-   - [DOI: 10.1038/323533a0](https://doi.org/10.1038/323533a0)
-   - [Nature](https://www.nature.com/articles/323533a0)
-   - [PDF](https://www.nature.com/articles/323533a0.pdf)
-
-6. **Hornik, K., Stinchcombe, M., & White, H.** (1989). Multilayer feedforward networks are universal approximators. *Neural Networks*, 2(5), 359-366.
-   - [DOI: 10.1016/0893-6080(89)90020-8](https://doi.org/10.1016/0893-6080(89)90020-8)
-   - [PDF](https://www.sciencedirect.com/science/article/abs/pii/0893608089900208)
-
-</details>
-
----
+    ---
 
 ## Recommended Reads
 
-<details>
-<summary><strong>📚 Official Documentation</strong></summary>
+??? note "📚 Official Documentation"
 
-- **Neural Networks** - [PyTorch neural networks](https://pytorch.org/docs/stable/nn.html)
+    - **Neural Networks** - [PyTorch neural networks](https://pytorch.org/docs/stable/nn.html)
 
-- **TensorFlow Keras** - [Keras API reference](https://www.tensorflow.org/api_docs/python/tf/keras)
+    - **TensorFlow Keras** - [Keras API reference](https://www.tensorflow.org/api_docs/python/tf/keras)
 
-- **Activation Functions** - [Activation functions guide](https://pytorch.org/docs/stable/nn.html#activation-functions)
+    - **Activation Functions** - [Activation functions guide](https://pytorch.org/docs/stable/nn.html#activation-functions)
 
-</details>
+??? note "📖 Essential Articles"
 
-<details>
-<summary><strong>📖 Essential Articles</strong></summary>
+    - **Neural Networks Tutorial** - [Complete NN guide](https://machinelearningmastery.com/neural-networks-crash-course/)
 
-- **Neural Networks Tutorial** - [Complete NN guide](https://machinelearningmastery.com/neural-networks-crash-course/)
+    - **Backpropagation Explained** - [Understanding backpropagation](https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd)
 
-- **Backpropagation Explained** - [Understanding backpropagation](https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd)
+    - **Activation Functions** - [Choosing activation functions](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)
 
-- **Activation Functions** - [Choosing activation functions](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)
+??? note "🎓 Learning Resources"
 
-</details>
+    - **Neural Networks Course** - [Andrew Ng's Deep Learning](https://www.coursera.org/specializations/deep-learning)
 
-<details>
-<summary><strong>🎓 Learning Resources</strong></summary>
+    - **Backpropagation Tutorial** - [Step-by-step backpropagation](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 
-- **Neural Networks Course** - [Andrew Ng's Deep Learning](https://www.coursera.org/specializations/deep-learning)
+    - **Neural Network Playground** - [Interactive NN visualization](https://playground.tensorflow.org/)
 
-- **Backpropagation Tutorial** - [Step-by-step backpropagation](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+??? note "💡 Best Practices"
 
-- **Neural Network Playground** - [Interactive NN visualization](https://playground.tensorflow.org/)
+    - **Weight Initialization** - [Initialization strategies](https://pytorch.org/docs/stable/nn.init.html)
 
-</details>
+    - **Gradient Clipping** - [Preventing gradient explosion](https://pytorch.org/docs/stable/generated/torch.nn.utils.clip_grad_norm_.html)
 
-<details>
-<summary><strong>💡 Best Practices</strong></summary>
+    - **Learning Rate Scheduling** - [LR scheduling strategies](https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate)
 
-- **Weight Initialization** - [Initialization strategies](https://pytorch.org/docs/stable/nn.init.html)
+??? note "🔬 Research Papers"
 
-- **Gradient Clipping** - [Preventing gradient explosion](https://pytorch.org/docs/stable/generated/torch.nn.utils.clip_grad_norm_.html)
+    - **Backpropagation** - [Rumelhart et al. (1986)](https://doi.org/10.1038/323533a0) - Learning representations by back-propagating errors
 
-- **Learning Rate Scheduling** - [LR scheduling strategies](https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate)
+    - **Universal Approximation** - [Hornik et al. (1989)](https://doi.org/10.1016/0893-6080(89)90020-8) - Multilayer networks as universal approximators
+    - **Deep Learning Book** - [Goodfellow et al. (2016)](https://www.deeplearningbook.org/) - Comprehensive deep learning reference
 
-</details>
+    ---
 
-<details>
-<summary><strong>🔬 Research Papers</strong></summary>
-
-- **Backpropagation** - [Rumelhart et al. (1986)](https://doi.org/10.1038/323533a0) - Learning representations by back-propagating errors
-
-- **Universal Approximation** - [Hornik et al. (1989)](https://doi.org/10.1016/0893-6080(89)90020-8) - Multilayer networks as universal approximators
-- **Deep Learning Book** - [Goodfellow et al. (2016)](https://www.deeplearningbook.org/) - Comprehensive deep learning reference
-
-</details>
-
----
-
-**Previous Chapter**: [Chapter 8: Support Vector Machines](08_svm.md) | **Next Chapter**: [Chapter 10: Genetic Algorithms](10_genetic_algorithms.md)
+    **Previous Chapter**: [Chapter 8: Support Vector Machines](08_svm.md) | **Next Chapter**: [Chapter 10: Genetic Algorithms](10_genetic_algorithms.md)
 

@@ -493,102 +493,78 @@ Understanding learning paradigms prepares you for:
 
 ## References / Further Reading
 
-<details>
-<summary><strong>📚 Primary References</strong></summary>
+??? note "📚 Primary References"
 
-1. **Mitchell, T. M.** (1997). *Machine Learning*. 
-   - Chapter 1: Introduction (Supervised Learning)
-   - Chapter 12: Learning from Observations (Unsupervised Learning)
+    1. **Mitchell, T. M.** (1997). *Machine Learning*. 
+       - Chapter 1: Introduction (Supervised Learning)
+       - Chapter 12: Learning from Observations (Unsupervised Learning)
 
-2. **Bishop, C. M.** (2006). *Pattern Recognition & Machine Learning*.
-   - Chapter 1: Introduction
-   - Chapter 9: Mixture Models and EM (Unsupervised)
+    2. **Bishop, C. M.** (2006). *Pattern Recognition & Machine Learning*.
+       - Chapter 1: Introduction
+       - Chapter 9: Mixture Models and EM (Unsupervised)
 
-</details>
+??? note "📖 Reinforcement Learning"
 
-<details>
-<summary><strong>📖 Reinforcement Learning</strong></summary>
+    3. **Sutton, R. S., & Barto, A. G.** (2018). *Reinforcement Learning: An Introduction* (2nd ed.). MIT Press.
+       - [MIT Press](https://mitpress.mit.edu/9780262039246/reinforcement-learning-second-edition/)
+       - [Free Online Book](http://incompleteideas.net/book/the-book-2nd.html)
+       - [Amazon](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249)
 
-3. **Sutton, R. S., & Barto, A. G.** (2018). *Reinforcement Learning: An Introduction* (2nd ed.). MIT Press.
-   - [MIT Press](https://mitpress.mit.edu/9780262039246/reinforcement-learning-second-edition/)
-   - [Free Online Book](http://incompleteideas.net/book/the-book-2nd.html)
-   - [Amazon](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249)
+    4. **Szepesvári, C.** (2010). *Algorithms for Reinforcement Learning*. Morgan & Claypool.
+       - [Morgan & Claypool](https://www.morganclaypool.com/doi/abs/10.2200/S00268ED1V01Y201005AIM009)
+       - [Free PDF](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
+       - [Amazon](https://www.amazon.com/Algorithms-Reinforcement-Learning-Synthesis-Artificial/dp/1608454924)
 
-4. **Szepesvári, C.** (2010). *Algorithms for Reinforcement Learning*. Morgan & Claypool.
-   - [Morgan & Claypool](https://www.morganclaypool.com/doi/abs/10.2200/S00268ED1V01Y201005AIM009)
-   - [Free PDF](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
-   - [Amazon](https://www.amazon.com/Algorithms-Reinforcement-Learning-Synthesis-Artificial/dp/1608454924)
+??? note "🔬 Research Papers"
 
-</details>
+    5. **Jordan, M. I., & Mitchell, T. M.** (2015). Machine learning: Trends, perspectives, and prospects. *Science*, 349(6245), 255-260.
+       - [DOI: 10.1126/science.aaa8415](https://doi.org/10.1126/science.aaa8415)
+       - [Science](https://www.science.org/doi/10.1126/science.aaa8415)
+       - [PDF](https://www.science.org/doi/pdf/10.1126/science.aaa8415)
 
-<details>
-<summary><strong>🔬 Research Papers</strong></summary>
-
-5. **Jordan, M. I., & Mitchell, T. M.** (2015). Machine learning: Trends, perspectives, and prospects. *Science*, 349(6245), 255-260.
-   - [DOI: 10.1126/science.aaa8415](https://doi.org/10.1126/science.aaa8415)
-   - [Science](https://www.science.org/doi/10.1126/science.aaa8415)
-   - [PDF](https://www.science.org/doi/pdf/10.1126/science.aaa8415)
-
-</details>
-
----
+    ---
 
 ## Recommended Reads
 
-<details>
-<summary><strong>📚 Official Documentation</strong></summary>
+??? note "📚 Official Documentation"
 
-- **Scikit-learn Supervised Learning** - [Classification and regression](https://scikit-learn.org/stable/supervised_learning.html)
+    - **Scikit-learn Supervised Learning** - [Classification and regression](https://scikit-learn.org/stable/supervised_learning.html)
 
-- **Scikit-learn Unsupervised Learning** - [Clustering and dimensionality reduction](https://scikit-learn.org/stable/unsupervised_learning.html)
+    - **Scikit-learn Unsupervised Learning** - [Clustering and dimensionality reduction](https://scikit-learn.org/stable/unsupervised_learning.html)
 
-- **OpenAI Gym** - [Reinforcement learning environments](https://www.gymlibrary.dev/)
+    - **OpenAI Gym** - [Reinforcement learning environments](https://www.gymlibrary.dev/)
 
-</details>
+??? note "📖 Essential Articles"
 
-<details>
-<summary><strong>📖 Essential Articles</strong></summary>
+    - **Supervised vs Unsupervised** - [Towards Data Science guide](https://towardsdatascience.com/supervised-vs-unsupervised-learning-14f68e32ea8d)
 
-- **Supervised vs Unsupervised** - [Towards Data Science guide](https://towardsdatascience.com/supervised-vs-unsupervised-learning-14f68e32ea8d)
+    - **Reinforcement Learning Tutorial** - [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
 
-- **Reinforcement Learning Tutorial** - [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
+    - **Semi-supervised Learning** - [Introduction to semi-supervised learning](https://scikit-learn.org/stable/modules/semi_supervised.html)
 
-- **Semi-supervised Learning** - [Introduction to semi-supervised learning](https://scikit-learn.org/stable/modules/semi_supervised.html)
+??? note "🎓 Learning Resources"
 
-</details>
+    - **RL Course** - [David Silver's RL Course](https://www.davidsilver.uk/teaching/)
 
-<details>
-<summary><strong>🎓 Learning Resources</strong></summary>
+    - **Unsupervised Learning** - [Coursera Unsupervised Learning](https://www.coursera.org/learn/unsupervised-learning)
 
-- **RL Course** - [David Silver's RL Course](https://www.davidsilver.uk/teaching/)
+    - **Clustering Tutorial** - [Scikit-learn clustering tutorial](https://scikit-learn.org/stable/modules/clustering.html)
 
-- **Unsupervised Learning** - [Coursera Unsupervised Learning](https://www.coursera.org/learn/unsupervised-learning)
+??? note "💡 Best Practices"
 
-- **Clustering Tutorial** - [Scikit-learn clustering tutorial](https://scikit-learn.org/stable/modules/clustering.html)
+    - **Choosing Learning Paradigm** - [When to use supervised/unsupervised/RL](https://machinelearningmastery.com/what-is-machine-learning/)
 
-</details>
+    - **Data Labeling** - [Labeling strategies](https://www.cloudfactory.com/data-labeling-guide)
 
-<details>
-<summary><strong>💡 Best Practices</strong></summary>
+    - **RL Best Practices** - [OpenAI RL best practices](https://spinningup.openai.com/en/latest/user/algorithms.html)
 
-- **Choosing Learning Paradigm** - [When to use supervised/unsupervised/RL](https://machinelearningmastery.com/what-is-machine-learning/)
+??? note "🔬 Research Papers"
 
-- **Data Labeling** - [Labeling strategies](https://www.cloudfactory.com/data-labeling-guide)
+    - **ML Trends** - [Jordan & Mitchell (2015)](https://doi.org/10.1126/science.aaa8415) - Machine learning perspectives
 
-- **RL Best Practices** - [OpenAI RL best practices](https://spinningup.openai.com/en/latest/user/algorithms.html)
+    - **RL Introduction** - [Sutton & Barto (2018)](http://incompleteideas.net/book/the-book-2nd.html) - Reinforcement learning textbook
 
-</details>
+    ---
 
-<details>
-<summary><strong>🔬 Research Papers</strong></summary>
-
-- **ML Trends** - [Jordan & Mitchell (2015)](https://doi.org/10.1126/science.aaa8415) - Machine learning perspectives
-
-- **RL Introduction** - [Sutton & Barto (2018)](http://incompleteideas.net/book/the-book-2nd.html) - Reinforcement learning textbook
-
-</details>
-
----
-
-**Previous Chapter**: [Chapter 1: Introduction](01_introduction.md) | **Next Chapter**: [Chapter 3: Model Selection and Evaluation](03_model_selection.md)
+    **Previous Chapter**: [Chapter 1: Introduction](01_introduction.md) | **Next Chapter**: [Chapter 3: Model Selection and Evaluation](03_model_selection.md)
 

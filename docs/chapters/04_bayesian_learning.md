@@ -492,89 +492,68 @@ Understanding Bayesian learning prepares you for:
 
 ## References / Further Reading
 
-<details>
-<summary><strong>📚 Primary References</strong></summary>
+??? note "📚 Primary References"
 
-1. **Mitchell, T. M.** (1997). *Machine Learning*.
-   - Chapter 6: Bayesian Learning
+    1. **Mitchell, T. M.** (1997). *Machine Learning*.
+       - Chapter 6: Bayesian Learning
 
-2. **Bishop, C. M.** (2006). *Pattern Recognition & Machine Learning*.
-   - Chapter 1: Introduction (Bayesian perspective)
-   - Chapter 2: Probability Distributions
-   - Chapter 3: Linear Models for Regression (Bayesian)
+    2. **Bishop, C. M.** (2006). *Pattern Recognition & Machine Learning*.
+       - Chapter 1: Introduction (Bayesian perspective)
+       - Chapter 2: Probability Distributions
+       - Chapter 3: Linear Models for Regression (Bayesian)
 
-</details>
+??? note "🔬 Research Papers"
 
-<details>
-<summary><strong>🔬 Research Papers</strong></summary>
+    3. **Rissanen, J.** (1978). Modeling by shortest data description. *Automatica*, 14(5), 465-471. (MDL Principle)
+       - [DOI: 10.1016/0005-1098(78)90005-5](https://doi.org/10.1016/0005-1098(78)90005-5)
+       - [PDF](https://www.sciencedirect.com/science/article/abs/pii/0005109878900055)
 
-3. **Rissanen, J.** (1978). Modeling by shortest data description. *Automatica*, 14(5), 465-471. (MDL Principle)
-   - [DOI: 10.1016/0005-1098(78)90005-5](https://doi.org/10.1016/0005-1098(78)90005-5)
-   - [PDF](https://www.sciencedirect.com/science/article/abs/pii/0005109878900055)
+    4. **Domingos, P., & Pazzani, M.** (1997). On the optimality of the simple Bayesian classifier under zero-one loss. *Machine Learning*, 29(2-3), 103-130.
+       - [DOI: 10.1023/A:1007413511361](https://doi.org/10.1023/A:1007413511361)
+       - [PDF](https://link.springer.com/article/10.1023/A:1007413511361)
 
-4. **Domingos, P., & Pazzani, M.** (1997). On the optimality of the simple Bayesian classifier under zero-one loss. *Machine Learning*, 29(2-3), 103-130.
-   - [DOI: 10.1023/A:1007413511361](https://doi.org/10.1023/A:1007413511361)
-   - [PDF](https://link.springer.com/article/10.1023/A:1007413511361)
-
-</details>
-
----
+    ---
 
 ## Recommended Reads
 
-<details>
-<summary><strong>📚 Official Documentation</strong></summary>
+??? note "📚 Official Documentation"
 
-- **Scikit-learn Naive Bayes** - [Naive Bayes classifiers](https://scikit-learn.org/stable/modules/naive_bayes.html)
+    - **Scikit-learn Naive Bayes** - [Naive Bayes classifiers](https://scikit-learn.org/stable/modules/naive_bayes.html)
 
-- **PyMC3 Documentation** - [Probabilistic programming](https://www.pymc.io/projects/docs/en/stable/)
+    - **PyMC3 Documentation** - [Probabilistic programming](https://www.pymc.io/projects/docs/en/stable/)
 
-- **Stan Documentation** - [Bayesian inference](https://mc-stan.org/users/documentation/)
+    - **Stan Documentation** - [Bayesian inference](https://mc-stan.org/users/documentation/)
 
-</details>
+??? note "📖 Essential Articles"
 
-<details>
-<summary><strong>📖 Essential Articles</strong></summary>
+    - **Bayesian Inference Tutorial** - [Bayesian methods guide](https://towardsdatascience.com/bayesian-inference-introduction-90c9e2c3aaeb)
 
-- **Bayesian Inference Tutorial** - [Bayesian methods guide](https://towardsdatascience.com/bayesian-inference-introduction-90c9e2c3aaeb)
+    - **Naive Bayes Explained** - [Naive Bayes tutorial](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
 
-- **Naive Bayes Explained** - [Naive Bayes tutorial](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
+    - **MAP vs ML** - [Understanding MAP estimation](https://towardsdatascience.com/maximum-likelihood-estimation-vs-maximum-a-posteriori-estimation-b3af2bdf9a5)
 
-- **MAP vs ML** - [Understanding MAP estimation](https://towardsdatascience.com/maximum-likelihood-estimation-vs-maximum-a-posteriori-estimation-b3af2bdf9a5)
+??? note "🎓 Learning Resources"
 
-</details>
+    - **Bayesian Methods** - [Bayesian statistics course](https://www.coursera.org/learn/bayesian-statistics)
 
-<details>
-<summary><strong>🎓 Learning Resources</strong></summary>
+    - **Probabilistic Programming** - [PyMC tutorials](https://www.pymc.io/projects/examples/en/latest/)
 
-- **Bayesian Methods** - [Bayesian statistics course](https://www.coursera.org/learn/bayesian-statistics)
+    - **Bayesian ML** - [Bayesian machine learning guide](https://www.cs.ubc.ca/~murphyk/MLbook/)
 
-- **Probabilistic Programming** - [PyMC tutorials](https://www.pymc.io/projects/examples/en/latest/)
+??? note "💡 Best Practices"
 
-- **Bayesian ML** - [Bayesian machine learning guide](https://www.cs.ubc.ca/~murphyk/MLbook/)
+    - **Prior Selection** - [Choosing priors](https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/prior_choice_guidelines.html)
 
-</details>
+    - **Bayesian Model Comparison** - [Model comparison techniques](https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/model_comparison.html)
 
-<details>
-<summary><strong>💡 Best Practices</strong></summary>
+    - **MCMC Diagnostics** - [MCMC convergence diagnostics](https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/Diagnosing_biased_Inference_with_Divergences.html)
 
-- **Prior Selection** - [Choosing priors](https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/prior_choice_guidelines.html)
+??? note "🔬 Research Papers"
 
-- **Bayesian Model Comparison** - [Model comparison techniques](https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/model_comparison.html)
+    - **MDL Principle** - [Rissanen (1978)](https://doi.org/10.1016/0005-1098(78)90005-5) - Minimum description length
+    - **Naive Bayes Optimality** - [Domingos & Pazzani (1997)](https://doi.org/10.1023/A:1007413511361) - Optimality of Naive Bayes
 
-- **MCMC Diagnostics** - [MCMC convergence diagnostics](https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/Diagnosing_biased_Inference_with_Divergences.html)
+    ---
 
-</details>
-
-<details>
-<summary><strong>🔬 Research Papers</strong></summary>
-
-- **MDL Principle** - [Rissanen (1978)](https://doi.org/10.1016/0005-1098(78)90005-5) - Minimum description length
-- **Naive Bayes Optimality** - [Domingos & Pazzani (1997)](https://doi.org/10.1023/A:1007413511361) - Optimality of Naive Bayes
-
-</details>
-
----
-
-**Previous Chapter**: [Chapter 3: Model Selection](03_model_selection.md) | **Next Chapter**: [Chapter 5: Linear Models](05_linear_models.md)
+    **Previous Chapter**: [Chapter 3: Model Selection](03_model_selection.md) | **Next Chapter**: [Chapter 5: Linear Models](05_linear_models.md)
 

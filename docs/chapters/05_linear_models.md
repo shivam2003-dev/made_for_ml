@@ -498,90 +498,69 @@ Understanding linear models prepares you for:
 
 ## References / Further Reading
 
-<details>
-<summary><strong>📚 Primary References</strong></summary>
+??? note "📚 Primary References"
 
-1. **Bishop, C. M.** (2006). *Pattern Recognition & Machine Learning*.
-   - Chapter 3: Linear Models for Regression
-   - Chapter 4: Linear Models for Classification
+    1. **Bishop, C. M.** (2006). *Pattern Recognition & Machine Learning*.
+       - Chapter 3: Linear Models for Regression
+       - Chapter 4: Linear Models for Classification
 
-2. **Hastie, T., Tibshirani, R., & Friedman, J.** (2009). *The Elements of Statistical Learning*.
-   - Chapter 3: Linear Methods for Regression
-   - Chapter 4: Linear Methods for Classification
+    2. **Hastie, T., Tibshirani, R., & Friedman, J.** (2009). *The Elements of Statistical Learning*.
+       - Chapter 3: Linear Methods for Regression
+       - Chapter 4: Linear Methods for Classification
 
-</details>
+??? note "🔬 Research Papers"
 
-<details>
-<summary><strong>🔬 Research Papers</strong></summary>
+    3. **Tibshirani, R.** (1996). Regression shrinkage and selection via the lasso. *Journal of the Royal Statistical Society*, 58(1), 267-288.
+       - [DOI: 10.1111/j.2517-6161.1996.tb02080.x](https://doi.org/10.1111/j.2517-6161.1996.tb02080.x)
+       - [PDF](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/j.2517-6161.1996.tb02080.x)
 
-3. **Tibshirani, R.** (1996). Regression shrinkage and selection via the lasso. *Journal of the Royal Statistical Society*, 58(1), 267-288.
-   - [DOI: 10.1111/j.2517-6161.1996.tb02080.x](https://doi.org/10.1111/j.2517-6161.1996.tb02080.x)
-   - [PDF](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/j.2517-6161.1996.tb02080.x)
+    4. **Hoerl, A. E., & Kennard, R. W.** (1970). Ridge regression: Biased estimation for nonorthogonal problems. *Technometrics*, 12(1), 55-67.
+       - [DOI: 10.1080/00401706.1970.10488634](https://doi.org/10.1080/00401706.1970.10488634)
+       - [PDF](https://www.tandfonline.com/doi/abs/10.1080/00401706.1970.10488634)
 
-4. **Hoerl, A. E., & Kennard, R. W.** (1970). Ridge regression: Biased estimation for nonorthogonal problems. *Technometrics*, 12(1), 55-67.
-   - [DOI: 10.1080/00401706.1970.10488634](https://doi.org/10.1080/00401706.1970.10488634)
-   - [PDF](https://www.tandfonline.com/doi/abs/10.1080/00401706.1970.10488634)
-
-</details>
-
----
+    ---
 
 ## Recommended Reads
 
-<details>
-<summary><strong>📚 Official Documentation</strong></summary>
+??? note "📚 Official Documentation"
 
-- **Linear Models** - [Scikit-learn linear models](https://scikit-learn.org/stable/modules/linear_model.html)
+    - **Linear Models** - [Scikit-learn linear models](https://scikit-learn.org/stable/modules/linear_model.html)
 
-- **Logistic Regression** - [Logistic regression guide](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)
+    - **Logistic Regression** - [Logistic regression guide](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)
 
-- **Regularization** - [Ridge and Lasso documentation](https://scikit-learn.org/stable/modules/linear_model.html#ridge-regression-and-classification)
+    - **Regularization** - [Ridge and Lasso documentation](https://scikit-learn.org/stable/modules/linear_model.html#ridge-regression-and-classification)
 
-</details>
+??? note "📖 Essential Articles"
 
-<details>
-<summary><strong>📖 Essential Articles</strong></summary>
+    - **Linear Regression Tutorial** - [Complete linear regression guide](https://machinelearningmastery.com/linear-regression-for-machine-learning/)
 
-- **Linear Regression Tutorial** - [Complete linear regression guide](https://machinelearningmastery.com/linear-regression-for-machine-learning/)
+    - **Ridge vs Lasso** - [Understanding regularization](https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b)
 
-- **Ridge vs Lasso** - [Understanding regularization](https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b)
+    - **Logistic Regression Explained** - [Logistic regression tutorial](https://machinelearningmastery.com/logistic-regression-for-machine-learning/)
 
-- **Logistic Regression Explained** - [Logistic regression tutorial](https://machinelearningmastery.com/logistic-regression-for-machine-learning/)
+??? note "🎓 Learning Resources"
 
-</details>
+    - **Gradient Descent** - [Understanding gradient descent](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3)
 
-<details>
-<summary><strong>🎓 Learning Resources</strong></summary>
+    - **Feature Scaling** - [Why and how to scale features](https://scikit-learn.org/stable/modules/preprocessing.html#standardization-or-mean-removal-and-variance-scaling)
 
-- **Gradient Descent** - [Understanding gradient descent](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3)
+    - **Multicollinearity** - [Handling multicollinearity](https://towardsdatascience.com/multicollinearity-in-regression-fe7a2b4d4d0)
 
-- **Feature Scaling** - [Why and how to scale features](https://scikit-learn.org/stable/modules/preprocessing.html#standardization-or-mean-removal-and-variance-scaling)
+??? note "💡 Best Practices"
 
-- **Multicollinearity** - [Handling multicollinearity](https://towardsdatascience.com/multicollinearity-in-regression-fe7a2b4d4d0)
+    - **Feature Scaling** - [Scaling best practices](https://scikit-learn.org/stable/modules/preprocessing.html#preprocessing-scaler)
 
-</details>
+    - **Regularization Tuning** - [Hyperparameter tuning for regularization](https://scikit-learn.org/stable/modules/grid_search.html)
 
-<details>
-<summary><strong>💡 Best Practices</strong></summary>
+    - **Linear Model Diagnostics** - [Model diagnostics](https://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares)
 
-- **Feature Scaling** - [Scaling best practices](https://scikit-learn.org/stable/modules/preprocessing.html#preprocessing-scaler)
+??? note "🔬 Research Papers"
 
-- **Regularization Tuning** - [Hyperparameter tuning for regularization](https://scikit-learn.org/stable/modules/grid_search.html)
+    - **Lasso Regression** - [Tibshirani (1996)](https://doi.org/10.1111/j.2517-6161.1996.tb02080.x) - Regression shrinkage and selection via lasso
 
-- **Linear Model Diagnostics** - [Model diagnostics](https://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares)
+    - **Ridge Regression** - [Hoerl & Kennard (1970)](https://doi.org/10.1080/00401706.1970.10488634) - Biased estimation for nonorthogonal problems
 
-</details>
+    ---
 
-<details>
-<summary><strong>🔬 Research Papers</strong></summary>
-
-- **Lasso Regression** - [Tibshirani (1996)](https://doi.org/10.1111/j.2517-6161.1996.tb02080.x) - Regression shrinkage and selection via lasso
-
-- **Ridge Regression** - [Hoerl & Kennard (1970)](https://doi.org/10.1080/00401706.1970.10488634) - Biased estimation for nonorthogonal problems
-
-</details>
-
----
-
-**Previous Chapter**: [Chapter 4: Bayesian Learning](04_bayesian_learning.md) | **Next Chapter**: [Chapter 6: Decision Trees](06_decision_trees.md)
+    **Previous Chapter**: [Chapter 4: Bayesian Learning](04_bayesian_learning.md) | **Next Chapter**: [Chapter 6: Decision Trees](06_decision_trees.md)
 

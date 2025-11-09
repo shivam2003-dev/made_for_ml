@@ -506,95 +506,74 @@ Understanding decision trees prepares you for:
 
 ## References / Further Reading
 
-<details>
-<summary><strong>📚 Primary References</strong></summary>
+??? note "📚 Primary References"
 
-1. **Mitchell, T. M.** (1997). *Machine Learning*.
-   - Chapter 3: Decision Tree Learning
+    1. **Mitchell, T. M.** (1997). *Machine Learning*.
+       - Chapter 3: Decision Tree Learning
 
-2. **Quinlan, J. R.** (1986). Induction of decision trees. *Machine Learning*, 1(1), 81-106. (ID3)
-   - [DOI: 10.1007/BF00116251](https://doi.org/10.1007/BF00116251)
-   - [PDF](https://link.springer.com/article/10.1007/BF00116251)
+    2. **Quinlan, J. R.** (1986). Induction of decision trees. *Machine Learning*, 1(1), 81-106. (ID3)
+       - [DOI: 10.1007/BF00116251](https://doi.org/10.1007/BF00116251)
+       - [PDF](https://link.springer.com/article/10.1007/BF00116251)
 
-3. **Quinlan, J. R.** (1993). *C4.5: Programs for Machine Learning*. Morgan Kaufmann.
-   - [Amazon](https://www.amazon.com/C4-5-Programs-Machine-Learning/dp/1558602380)
-   - [Morgan Kaufmann](https://www.elsevier.com/books/c45-programs-for-machine-learning/quinlan/978-1-55860-238-0)
+    3. **Quinlan, J. R.** (1993). *C4.5: Programs for Machine Learning*. Morgan Kaufmann.
+       - [Amazon](https://www.amazon.com/C4-5-Programs-Machine-Learning/dp/1558602380)
+       - [Morgan Kaufmann](https://www.elsevier.com/books/c45-programs-for-machine-learning/quinlan/978-1-55860-238-0)
 
-</details>
+??? note "🔬 Research Papers"
 
-<details>
-<summary><strong>🔬 Research Papers</strong></summary>
+    4. **Breiman, L., Friedman, J., Stone, C. J., & Olshen, R. A.** (1984). *Classification and Regression Trees*. Wadsworth.
+       - [Amazon](https://www.amazon.com/Classification-Regression-Wadsworth-Statistics-Probability/dp/0412048418)
+       - [Taylor & Francis](https://www.taylorfrancis.com/books/mono/10.1201/9781315139470/classification-regression-trees-leo-breiman)
 
-4. **Breiman, L., Friedman, J., Stone, C. J., & Olshen, R. A.** (1984). *Classification and Regression Trees*. Wadsworth.
-   - [Amazon](https://www.amazon.com/Classification-Regression-Wadsworth-Statistics-Probability/dp/0412048418)
-   - [Taylor & Francis](https://www.taylorfrancis.com/books/mono/10.1201/9781315139470/classification-regression-trees-leo-breiman)
+    5. **Breiman, L.** (2001). Random forests. *Machine Learning*, 45(1), 5-32.
+       - [DOI: 10.1023/A:1010933404324](https://doi.org/10.1023/A:1010933404324)
+       - [PDF](https://link.springer.com/article/10.1023/A:1010933404324)
 
-5. **Breiman, L.** (2001). Random forests. *Machine Learning*, 45(1), 5-32.
-   - [DOI: 10.1023/A:1010933404324](https://doi.org/10.1023/A:1010933404324)
-   - [PDF](https://link.springer.com/article/10.1023/A:1010933404324)
-
-</details>
-
----
+    ---
 
 ## Recommended Reads
 
-<details>
-<summary><strong>📚 Official Documentation</strong></summary>
+??? note "📚 Official Documentation"
 
-- **Decision Trees** - [Scikit-learn decision trees](https://scikit-learn.org/stable/modules/tree.html)
+    - **Decision Trees** - [Scikit-learn decision trees](https://scikit-learn.org/stable/modules/tree.html)
 
-- **Tree Visualization** - [Visualizing decision trees](https://scikit-learn.org/stable/modules/tree.html#visualization)
+    - **Tree Visualization** - [Visualizing decision trees](https://scikit-learn.org/stable/modules/tree.html#visualization)
 
-- **Ensemble Methods** - [Random Forest and ensemble methods](https://scikit-learn.org/stable/modules/ensemble.html)
+    - **Ensemble Methods** - [Random Forest and ensemble methods](https://scikit-learn.org/stable/modules/ensemble.html)
 
-</details>
+??? note "📖 Essential Articles"
 
-<details>
-<summary><strong>📖 Essential Articles</strong></summary>
+    - **Decision Trees Explained** - [Complete decision tree guide](https://machinelearningmastery.com/classification-and-regression-trees-for-machine-learning/)
 
-- **Decision Trees Explained** - [Complete decision tree guide](https://machinelearningmastery.com/classification-and-regression-trees-for-machine-learning/)
+    - **Tree Pruning** - [Understanding tree pruning](https://towardsdatascience.com/pruning-decision-trees-2d5f96f9eb3c)
 
-- **Tree Pruning** - [Understanding tree pruning](https://towardsdatascience.com/pruning-decision-trees-2d5f96f9eb3c)
+    - **Information Gain** - [Entropy and information gain](https://towardsdatascience.com/entropy-how-decision-trees-make-decisions-2946b9c2c126)
 
-- **Information Gain** - [Entropy and information gain](https://towardsdatascience.com/entropy-how-decision-trees-make-decisions-2946b9c2c126)
+??? note "🎓 Learning Resources"
 
-</details>
+    - **CART Algorithm** - [CART algorithm tutorial](https://machinelearningmastery.com/classification-and-regression-trees-for-machine-learning/)
 
-<details>
-<summary><strong>🎓 Learning Resources</strong></summary>
+    - **Tree Splitting Criteria** - [Gini vs Entropy](https://towardsdatascience.com/gini-impurity-measure-dbd3878ead33)
 
-- **CART Algorithm** - [CART algorithm tutorial](https://machinelearningmastery.com/classification-and-regression-trees-for-machine-learning/)
+    - **Random Forest** - [Random Forest explained](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)
 
-- **Tree Splitting Criteria** - [Gini vs Entropy](https://towardsdatascience.com/gini-impurity-measure-dbd3878ead33)
+??? note "💡 Best Practices"
 
-- **Random Forest** - [Random Forest explained](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)
+    - **Tree Pruning** - [Pruning strategies](https://scikit-learn.org/stable/modules/tree.html#minimal-cost-complexity-pruning)
 
-</details>
+    - **Feature Importance** - [Understanding feature importance](https://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html)
 
-<details>
-<summary><strong>💡 Best Practices</strong></summary>
+    - **Handling Overfitting** - [Preventing tree overfitting](https://scikit-learn.org/stable/modules/tree.html#tips-on-practical-use)
 
-- **Tree Pruning** - [Pruning strategies](https://scikit-learn.org/stable/modules/tree.html#minimal-cost-complexity-pruning)
+??? note "🔬 Research Papers"
 
-- **Feature Importance** - [Understanding feature importance](https://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html)
+    - **ID3 Algorithm** - [Quinlan (1986)](https://doi.org/10.1007/BF00116251) - Induction of decision trees
 
-- **Handling Overfitting** - [Preventing tree overfitting](https://scikit-learn.org/stable/modules/tree.html#tips-on-practical-use)
+    - **C4.5 Algorithm** - [Quinlan (1993)](https://www.amazon.com/C4-5-Programs-Machine-Learning/dp/1558602380) - C4.5 programs
 
-</details>
+    - **Random Forests** - [Breiman (2001)](https://doi.org/10.1023/A:1010933404324) - Random forests paper
 
-<details>
-<summary><strong>🔬 Research Papers</strong></summary>
+    ---
 
-- **ID3 Algorithm** - [Quinlan (1986)](https://doi.org/10.1007/BF00116251) - Induction of decision trees
-
-- **C4.5 Algorithm** - [Quinlan (1993)](https://www.amazon.com/C4-5-Programs-Machine-Learning/dp/1558602380) - C4.5 programs
-
-- **Random Forests** - [Breiman (2001)](https://doi.org/10.1023/A:1010933404324) - Random forests paper
-
-</details>
-
----
-
-**Previous Chapter**: [Chapter 5: Linear Models](05_linear_models.md) | **Next Chapter**: [Chapter 7: Instance-Based Learning](07_instance_based.md)
+    **Previous Chapter**: [Chapter 5: Linear Models](05_linear_models.md) | **Next Chapter**: [Chapter 7: Instance-Based Learning](07_instance_based.md)
 

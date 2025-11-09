@@ -546,102 +546,78 @@ Understanding SVMs prepares you for:
 
 ## References / Further Reading
 
-<details>
-<summary><strong>📚 Primary References</strong></summary>
+??? note "📚 Primary References"
 
-1. **Burges, C. J. C.** (1998). A Tutorial on Support Vector Machines for Pattern Recognition. *Data Mining and Knowledge Discovery*, 2(2), 121-167.
-   - [DOI: 10.1023/A:1009715923555](https://doi.org/10.1023/A:1009715923555)
-   - [PDF (ResearchGate)](https://www.researchgate.net/publication/220420529_A_Tutorial_on_Support_Vector_Machines_for_Pattern_Recognition)
+    1. **Burges, C. J. C.** (1998). A Tutorial on Support Vector Machines for Pattern Recognition. *Data Mining and Knowledge Discovery*, 2(2), 121-167.
+       - [DOI: 10.1023/A:1009715923555](https://doi.org/10.1023/A:1009715923555)
+       - [PDF (ResearchGate)](https://www.researchgate.net/publication/220420529_A_Tutorial_on_Support_Vector_Machines_for_Pattern_Recognition)
 
-2. **Bishop, C. M.** (2006). *Pattern Recognition & Machine Learning*.
-   - Chapter 7: Sparse Kernel Machines
-   - [Springer](https://link.springer.com/book/10.1007/978-0-387-45528-0)
-   - [Free PDF](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+    2. **Bishop, C. M.** (2006). *Pattern Recognition & Machine Learning*.
+       - Chapter 7: Sparse Kernel Machines
+       - [Springer](https://link.springer.com/book/10.1007/978-0-387-45528-0)
+       - [Free PDF](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
-</details>
+??? note "🔬 Research Papers"
 
-<details>
-<summary><strong>🔬 Research Papers</strong></summary>
+    3. **Cortes, C., & Vapnik, V.** (1995). Support-vector networks. *Machine Learning*, 20(3), 273-297.
+       - [DOI: 10.1007/BF00994018](https://doi.org/10.1007/BF00994018)
+       - [PDF](https://link.springer.com/article/10.1007/BF00994018)
 
-3. **Cortes, C., & Vapnik, V.** (1995). Support-vector networks. *Machine Learning*, 20(3), 273-297.
-   - [DOI: 10.1007/BF00994018](https://doi.org/10.1007/BF00994018)
-   - [PDF](https://link.springer.com/article/10.1007/BF00994018)
+    4. **Vapnik, V. N.** (1998). *Statistical Learning Theory*. Wiley.
+       - [Amazon](https://www.amazon.com/Statistical-Learning-Theory-Vladimir-Vapnik/dp/0471030031)
+       - [Wiley](https://www.wiley.com/en-us/Statistical+Learning+Theory-p-9780471030034)
 
-4. **Vapnik, V. N.** (1998). *Statistical Learning Theory*. Wiley.
-   - [Amazon](https://www.amazon.com/Statistical-Learning-Theory-Vladimir-Vapnik/dp/0471030031)
-   - [Wiley](https://www.wiley.com/en-us/Statistical+Learning+Theory-p-9780471030034)
+??? note "📖 VC Dimension"
 
-</details>
+    5. **Vapnik, V., & Chervonenkis, A.** (1971). On the uniform convergence of relative frequencies of events to their probabilities. *Theory of Probability and its Applications*, 16(2), 264-280.
+       - [DOI: 10.1137/1116025](https://doi.org/10.1137/1116025)
+       - [PDF](https://epubs.siam.org/doi/abs/10.1137/1116025)
 
-<details>
-<summary><strong>📖 VC Dimension</strong></summary>
-
-5. **Vapnik, V., & Chervonenkis, A.** (1971). On the uniform convergence of relative frequencies of events to their probabilities. *Theory of Probability and its Applications*, 16(2), 264-280.
-   - [DOI: 10.1137/1116025](https://doi.org/10.1137/1116025)
-   - [PDF](https://epubs.siam.org/doi/abs/10.1137/1116025)
-
-</details>
-
----
+    ---
 
 ## Recommended Reads
 
-<details>
-<summary><strong>📚 Official Documentation</strong></summary>
+??? note "📚 Official Documentation"
 
-- **Support Vector Machines** - [Scikit-learn SVM](https://scikit-learn.org/stable/modules/svm.html)
+    - **Support Vector Machines** - [Scikit-learn SVM](https://scikit-learn.org/stable/modules/svm.html)
 
-- **SVM Kernels** - [Kernel functions](https://scikit-learn.org/stable/modules/svm.html#kernel-functions)
+    - **SVM Kernels** - [Kernel functions](https://scikit-learn.org/stable/modules/svm.html#kernel-functions)
 
-- **SVM Parameters** - [SVM tuning guide](https://scikit-learn.org/stable/modules/svm.html#parameters-of-the-rbf-kernel)
+    - **SVM Parameters** - [SVM tuning guide](https://scikit-learn.org/stable/modules/svm.html#parameters-of-the-rbf-kernel)
 
-</details>
+??? note "📖 Essential Articles"
 
-<details>
-<summary><strong>📖 Essential Articles</strong></summary>
+    - **SVM Tutorial** - [Complete SVM guide](https://machinelearningmastery.com/support-vector-machines-for-machine-learning/)
 
-- **SVM Tutorial** - [Complete SVM guide](https://machinelearningmastery.com/support-vector-machines-for-machine-learning/)
+    - **Kernel Trick Explained** - [Understanding kernel methods](https://towardsdatascience.com/understanding-the-kernel-trick-e0bc6112ef78)
 
-- **Kernel Trick Explained** - [Understanding kernel methods](https://towardsdatascience.com/understanding-the-kernel-trick-e0bc6112ef78)
+    - **SVM vs Other Algorithms** - [When to use SVM](https://towardsdatascience.com/support-vector-machine-svm-101-2b638b89e1e0)
 
-- **SVM vs Other Algorithms** - [When to use SVM](https://towardsdatascience.com/support-vector-machine-svm-101-2b638b89e1e0)
+??? note "🎓 Learning Resources"
 
-</details>
+    - **SVM Mathematics** - [Mathematical foundations](https://towardsdatascience.com/support-vector-machine-svm-101-2b638b89e1e0)
 
-<details>
-<summary><strong>🎓 Learning Resources</strong></summary>
+    - **Kernel Selection** - [Choosing the right kernel](https://scikit-learn.org/stable/modules/svm.html#kernel-functions)
 
-- **SVM Mathematics** - [Mathematical foundations](https://towardsdatascience.com/support-vector-machine-svm-101-2b638b89e1e0)
+    - **VC Dimension** - [Understanding VC dimension](https://towardsdatascience.com/vc-dimension-explained-3b2be5d4f3b7)
 
-- **Kernel Selection** - [Choosing the right kernel](https://scikit-learn.org/stable/modules/svm.html#kernel-functions)
+??? note "💡 Best Practices"
 
-- **VC Dimension** - [Understanding VC dimension](https://towardsdatascience.com/vc-dimension-explained-3b2be5d4f3b7)
+    - **SVM Parameter Tuning** - [Hyperparameter optimization](https://scikit-learn.org/stable/modules/grid_search.html)
 
-</details>
+    - **Feature Scaling** - [Scaling for SVM](https://scikit-learn.org/stable/modules/preprocessing.html#standardization-or-mean-removal-and-variance-scaling)
 
-<details>
-<summary><strong>💡 Best Practices</strong></summary>
+    - **SVM Best Practices** - [SVM usage tips](https://scikit-learn.org/stable/modules/svm.html#tips-on-practical-use)
 
-- **SVM Parameter Tuning** - [Hyperparameter optimization](https://scikit-learn.org/stable/modules/grid_search.html)
+??? note "🔬 Research Papers"
 
-- **Feature Scaling** - [Scaling for SVM](https://scikit-learn.org/stable/modules/preprocessing.html#standardization-or-mean-removal-and-variance-scaling)
+    - **SVM Tutorial** - [Burges (1998)](https://doi.org/10.1023/A:1009715923555) - Comprehensive SVM tutorial
 
-- **SVM Best Practices** - [SVM usage tips](https://scikit-learn.org/stable/modules/svm.html#tips-on-practical-use)
+    - **Support-Vector Networks** - [Cortes & Vapnik (1995)](https://doi.org/10.1007/BF00994018) - Original SVM paper
 
-</details>
+    - **VC Dimension** - [Vapnik & Chervonenkis (1971)](https://doi.org/10.1137/1116025) - VC dimension theory
 
-<details>
-<summary><strong>🔬 Research Papers</strong></summary>
+    ---
 
-- **SVM Tutorial** - [Burges (1998)](https://doi.org/10.1023/A:1009715923555) - Comprehensive SVM tutorial
-
-- **Support-Vector Networks** - [Cortes & Vapnik (1995)](https://doi.org/10.1007/BF00994018) - Original SVM paper
-
-- **VC Dimension** - [Vapnik & Chervonenkis (1971)](https://doi.org/10.1137/1116025) - VC dimension theory
-
-</details>
-
----
-
-**Previous Chapter**: [Chapter 7: Instance-Based Learning](07_instance_based.md) | **Next Chapter**: [Chapter 9: Neural Networks](09_neural_networks.md)
+    **Previous Chapter**: [Chapter 7: Instance-Based Learning](07_instance_based.md) | **Next Chapter**: [Chapter 9: Neural Networks](09_neural_networks.md)
 
