@@ -583,34 +583,49 @@ Understanding instance-based learning prepares you for:
 
 ## Recommended Reads
 
-### 📚 Official Documentation
+<details>
+<summary><strong>📚 Official Documentation</strong></summary>
 
 - **K-Nearest Neighbors** - [Scikit-learn KNN](https://scikit-learn.org/stable/modules/neighbors.html)
 - **Nearest Neighbors** - [Neighbor algorithms](https://scikit-learn.org/stable/modules/neighbors.html#nearest-neighbors-classification)
 - **Distance Metrics** - [Distance metrics reference](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise_distances.html)
 
-### 📖 Essential Articles
+</details>
+
+<details>
+<summary><strong>📖 Essential Articles</strong></summary>
 
 - **KNN Tutorial** - [Complete KNN guide](https://machinelearningmastery.com/k-nearest-neighbors-for-machine-learning/)
 - **Choosing k in KNN** - [Selecting optimal k](https://towardsdatascience.com/how-to-find-the-optimal-value-of-k-in-knn-35d936e554eb)
 - **Distance Metrics** - [Understanding distance metrics](https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa)
 
-### 🎓 Learning Resources
+</details>
+
+<details>
+<summary><strong>🎓 Learning Resources</strong></summary>
 
 - **Curse of Dimensionality** - [Understanding high-dimensional problems](https://towardsdatascience.com/the-curse-of-dimensionality-50a6b05cedbf)
 - **KNN Optimization** - [Optimizing KNN performance](https://scikit-learn.org/stable/modules/neighbors.html#nearest-neighbors-algorithms)
 - **Weighted KNN** - [Distance-weighted KNN](https://scikit-learn.org/stable/modules/neighbors.html#classification)
 
-### 💡 Best Practices
+</details>
+
+<details>
+<summary><strong>💡 Best Practices</strong></summary>
 
 - **Feature Scaling** - [Scaling for KNN](https://scikit-learn.org/stable/modules/preprocessing.html#standardization-or-mean-removal-and-variance-scaling)
 - **KNN Best Practices** - [KNN best practices](https://scikit-learn.org/stable/modules/neighbors.html#tips-on-using-knn)
 - **Handling High Dimensions** - [Dimensionality reduction for KNN](https://scikit-learn.org/stable/modules/decomposition.html)
 
-### 🔬 Research Papers
+</details>
+
+<details>
+<summary><strong>🔬 Research Papers</strong></summary>
 
 - **Nearest Neighbor Classification** - [Cover & Hart (1967)](https://doi.org/10.1109/TIT.1967.1053964) - Foundational KNN paper
 - **Instance-Based Learning** - [Aha et al. (1991)](https://doi.org/10.1023/A:1022689900470) - Instance-based learning algorithms
+
+</details>
 
 ---
 

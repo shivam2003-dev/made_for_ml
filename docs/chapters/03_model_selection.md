@@ -483,34 +483,49 @@ Understanding model selection prepares you for:
 
 ## Recommended Reads
 
-### 📚 Official Documentation
+<details>
+<summary><strong>📚 Official Documentation</strong></summary>
 
 - **Model Selection** - [Scikit-learn model selection guide](https://scikit-learn.org/stable/model_selection.html)
 - **Cross-Validation** - [Cross-validation documentation](https://scikit-learn.org/stable/modules/cross_validation.html)
 - **Metrics** - [Evaluation metrics reference](https://scikit-learn.org/stable/modules/model_evaluation.html)
 
-### 📖 Essential Articles
+</details>
+
+<details>
+<summary><strong>📖 Essential Articles</strong></summary>
 
 - **Bias-Variance Tradeoff** - [Understanding bias-variance](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
 - **Cross-Validation Guide** - [Complete CV guide](https://machinelearningmastery.com/k-fold-cross-validation/)
 - **Hyperparameter Tuning** - [Hyperparameter optimization](https://scikit-learn.org/stable/modules/grid_search.html)
 
-### 🎓 Learning Resources
+</details>
+
+<details>
+<summary><strong>🎓 Learning Resources</strong></summary>
 
 - **Model Evaluation** - [Evaluation strategies](https://scikit-learn.org/stable/modules/model_evaluation.html#scoring-parameter)
 - **Learning Curves** - [Diagnosing model performance](https://scikit-learn.org/stable/auto_examples/model_selection/plot_learning_curve.html)
 - **Validation Strategies** - [Time series validation](https://scikit-learn.org/stable/modules/cross_validation.html#time-series-split)
 
-### 💡 Best Practices
+</details>
+
+<details>
+<summary><strong>💡 Best Practices</strong></summary>
 
 - **Avoiding Data Leakage** - [Data leakage prevention](https://machinelearningmastery.com/data-leakage-machine-learning/)
 - **Train-Validation-Test Split** - [Proper data splitting](https://scikit-learn.org/stable/modules/cross_validation.html#cross-validation-iterators)
 - **Model Selection Best Practices** - [Selection guidelines](https://scikit-learn.org/stable/modules/model_selection.html#model-selection)
 
-### 🔬 Research Papers
+</details>
+
+<details>
+<summary><strong>🔬 Research Papers</strong></summary>
 
 - **Cross-Validation Study** - [Kohavi (1995)](https://www.ijcai.org/Proceedings/95-2/Papers/016.pdf) - CV and bootstrap for model selection
 - **Bias-Variance Dilemma** - [Geman et al. (1992)](https://doi.org/10.1162/neco.1992.4.1.1) - Neural networks and bias-variance
+
+</details>
 
 ---
 

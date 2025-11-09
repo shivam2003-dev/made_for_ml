@@ -533,35 +533,50 @@ Understanding decision trees prepares you for:
 
 ## Recommended Reads
 
-### 📚 Official Documentation
+<details>
+<summary><strong>📚 Official Documentation</strong></summary>
 
 - **Decision Trees** - [Scikit-learn decision trees](https://scikit-learn.org/stable/modules/tree.html)
 - **Tree Visualization** - [Visualizing decision trees](https://scikit-learn.org/stable/modules/tree.html#visualization)
 - **Ensemble Methods** - [Random Forest and ensemble methods](https://scikit-learn.org/stable/modules/ensemble.html)
 
-### 📖 Essential Articles
+</details>
+
+<details>
+<summary><strong>📖 Essential Articles</strong></summary>
 
 - **Decision Trees Explained** - [Complete decision tree guide](https://machinelearningmastery.com/classification-and-regression-trees-for-machine-learning/)
 - **Tree Pruning** - [Understanding tree pruning](https://towardsdatascience.com/pruning-decision-trees-2d5f96f9eb3c)
 - **Information Gain** - [Entropy and information gain](https://towardsdatascience.com/entropy-how-decision-trees-make-decisions-2946b9c2c126)
 
-### 🎓 Learning Resources
+</details>
+
+<details>
+<summary><strong>🎓 Learning Resources</strong></summary>
 
 - **CART Algorithm** - [CART algorithm tutorial](https://machinelearningmastery.com/classification-and-regression-trees-for-machine-learning/)
 - **Tree Splitting Criteria** - [Gini vs Entropy](https://towardsdatascience.com/gini-impurity-measure-dbd3878ead33)
 - **Random Forest** - [Random Forest explained](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)
 
-### 💡 Best Practices
+</details>
+
+<details>
+<summary><strong>💡 Best Practices</strong></summary>
 
 - **Tree Pruning** - [Pruning strategies](https://scikit-learn.org/stable/modules/tree.html#minimal-cost-complexity-pruning)
 - **Feature Importance** - [Understanding feature importance](https://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html)
 - **Handling Overfitting** - [Preventing tree overfitting](https://scikit-learn.org/stable/modules/tree.html#tips-on-practical-use)
 
-### 🔬 Research Papers
+</details>
+
+<details>
+<summary><strong>🔬 Research Papers</strong></summary>
 
 - **ID3 Algorithm** - [Quinlan (1986)](https://doi.org/10.1007/BF00116251) - Induction of decision trees
 - **C4.5 Algorithm** - [Quinlan (1993)](https://www.amazon.com/C4-5-Programs-Machine-Learning/dp/1558602380) - C4.5 programs
 - **Random Forests** - [Breiman (2001)](https://doi.org/10.1023/A:1010933404324) - Random forests paper
+
+</details>
 
 ---
 

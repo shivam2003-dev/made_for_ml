@@ -522,34 +522,49 @@ Understanding linear models prepares you for:
 
 ## Recommended Reads
 
-### 📚 Official Documentation
+<details>
+<summary><strong>📚 Official Documentation</strong></summary>
 
 - **Linear Models** - [Scikit-learn linear models](https://scikit-learn.org/stable/modules/linear_model.html)
 - **Logistic Regression** - [Logistic regression guide](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)
 - **Regularization** - [Ridge and Lasso documentation](https://scikit-learn.org/stable/modules/linear_model.html#ridge-regression-and-classification)
 
-### 📖 Essential Articles
+</details>
+
+<details>
+<summary><strong>📖 Essential Articles</strong></summary>
 
 - **Linear Regression Tutorial** - [Complete linear regression guide](https://machinelearningmastery.com/linear-regression-for-machine-learning/)
 - **Ridge vs Lasso** - [Understanding regularization](https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b)
 - **Logistic Regression Explained** - [Logistic regression tutorial](https://machinelearningmastery.com/logistic-regression-for-machine-learning/)
 
-### 🎓 Learning Resources
+</details>
+
+<details>
+<summary><strong>🎓 Learning Resources</strong></summary>
 
 - **Gradient Descent** - [Understanding gradient descent](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3)
 - **Feature Scaling** - [Why and how to scale features](https://scikit-learn.org/stable/modules/preprocessing.html#standardization-or-mean-removal-and-variance-scaling)
 - **Multicollinearity** - [Handling multicollinearity](https://towardsdatascience.com/multicollinearity-in-regression-fe7a2b4d4d0)
 
-### 💡 Best Practices
+</details>
+
+<details>
+<summary><strong>💡 Best Practices</strong></summary>
 
 - **Feature Scaling** - [Scaling best practices](https://scikit-learn.org/stable/modules/preprocessing.html#preprocessing-scaler)
 - **Regularization Tuning** - [Hyperparameter tuning for regularization](https://scikit-learn.org/stable/modules/grid_search.html)
 - **Linear Model Diagnostics** - [Model diagnostics](https://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares)
 
-### 🔬 Research Papers
+</details>
+
+<details>
+<summary><strong>🔬 Research Papers</strong></summary>
 
 - **Lasso Regression** - [Tibshirani (1996)](https://doi.org/10.1111/j.2517-6161.1996.tb02080.x) - Regression shrinkage and selection via lasso
 - **Ridge Regression** - [Hoerl & Kennard (1970)](https://doi.org/10.1080/00401706.1970.10488634) - Biased estimation for nonorthogonal problems
+
+</details>
 
 ---
 

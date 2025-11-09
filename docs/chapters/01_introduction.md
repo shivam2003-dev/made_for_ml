@@ -564,35 +564,50 @@ Understanding these foundations prepares you for:
 
 ## Recommended Reads
 
-### 📚 Official Documentation
+<details>
+<summary><strong>📚 Official Documentation</strong></summary>
 
 - **Scikit-learn User Guide** - [Complete ML guide](https://scikit-learn.org/stable/user_guide.html)
 - **NumPy Documentation** - [Array operations](https://numpy.org/doc/stable/)
 - **Pandas Documentation** - [Data manipulation](https://pandas.pydata.org/docs/)
 - **Matplotlib Documentation** - [Data visualization](https://matplotlib.org/stable/contents.html)
 
-### 📖 Essential Articles
+</details>
+
+<details>
+<summary><strong>📖 Essential Articles</strong></summary>
 
 - **Machine Learning Basics** - [Google's ML Crash Course](https://developers.google.com/machine-learning/crash-course)
 - **Introduction to ML** - [Stanford CS229 Notes](https://cs229.stanford.edu/syllabus.html)
 - **ML Fundamentals** - [Andrew Ng's Course Notes](https://www.coursera.org/learn/machine-learning)
 
-### 🎓 Learning Resources
+</details>
+
+<details>
+<summary><strong>🎓 Learning Resources</strong></summary>
 
 - **ML Glossary** - [Google's ML Glossary](https://developers.google.com/machine-learning/glossary)
 - **ML Concepts** - [AWS ML Concepts](https://docs.aws.amazon.com/machine-learning/latest/dg/machine-learning-concepts.html)
 - **Statistical Learning** - [Introduction to Statistical Learning](https://www.statlearning.com/)
 
-### 💡 Best Practices
+</details>
+
+<details>
+<summary><strong>💡 Best Practices</strong></summary>
 
 - **ML Best Practices** - [Google's ML Guide](https://developers.google.com/machine-learning/guides)
 - **Data Preparation** - [Data preprocessing guide](https://scikit-learn.org/stable/modules/preprocessing.html)
 - **Model Evaluation** - [Evaluation metrics guide](https://scikit-learn.org/stable/modules/model_evaluation.html)
 
-### 🔬 Research Papers
+</details>
+
+<details>
+<summary><strong>🔬 Research Papers</strong></summary>
 
 - **No Free Lunch Theorem** - [Wolpert (1996)](https://doi.org/10.1162/neco.1996.8.7.1341) - Fundamental limits of learning algorithms
 - **Statistical Learning Theory** - [Vapnik (1998)](https://www.wiley.com/en-us/Statistical+Learning+Theory-p-9780471030034) - Theoretical foundations
+
+</details>
 
 ---
 
