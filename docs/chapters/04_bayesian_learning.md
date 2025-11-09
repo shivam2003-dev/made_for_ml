@@ -514,5 +514,38 @@ Understanding Bayesian learning prepares you for:
 
 ---
 
+## Recommended Reads
+
+### 📚 Official Documentation
+
+- **Scikit-learn Naive Bayes** - [Naive Bayes classifiers](https://scikit-learn.org/stable/modules/naive_bayes.html)
+- **PyMC3 Documentation** - [Probabilistic programming](https://www.pymc.io/projects/docs/en/stable/)
+- **Stan Documentation** - [Bayesian inference](https://mc-stan.org/users/documentation/)
+
+### 📖 Essential Articles
+
+- **Bayesian Inference Tutorial** - [Bayesian methods guide](https://towardsdatascience.com/bayesian-inference-introduction-90c9e2c3aaeb)
+- **Naive Bayes Explained** - [Naive Bayes tutorial](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
+- **MAP vs ML** - [Understanding MAP estimation](https://towardsdatascience.com/maximum-likelihood-estimation-vs-maximum-a-posteriori-estimation-b3af2bdf9a5)
+
+### 🎓 Learning Resources
+
+- **Bayesian Methods** - [Bayesian statistics course](https://www.coursera.org/learn/bayesian-statistics)
+- **Probabilistic Programming** - [PyMC tutorials](https://www.pymc.io/projects/examples/en/latest/)
+- **Bayesian ML** - [Bayesian machine learning guide](https://www.cs.ubc.ca/~murphyk/MLbook/)
+
+### 💡 Best Practices
+
+- **Prior Selection** - [Choosing priors](https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/prior_choice_guidelines.html)
+- **Bayesian Model Comparison** - [Model comparison techniques](https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/model_comparison.html)
+- **MCMC Diagnostics** - [MCMC convergence diagnostics](https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/Diagnosing_biased_Inference_with_Divergences.html)
+
+### 🔬 Research Papers
+
+- **MDL Principle** - [Rissanen (1978)](https://doi.org/10.1016/0005-1098(78)90005-5) - Minimum description length
+- **Naive Bayes Optimality** - [Domingos & Pazzani (1997)](https://doi.org/10.1023/A:1007413511361) - Optimality of Naive Bayes
+
+---
+
 **Previous Chapter**: [Chapter 3: Model Selection](03_model_selection.md) | **Next Chapter**: [Chapter 5: Linear Models](05_linear_models.md)
 

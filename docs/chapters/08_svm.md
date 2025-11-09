@@ -575,5 +575,39 @@ Understanding SVMs prepares you for:
 
 ---
 
+## Recommended Reads
+
+### 📚 Official Documentation
+
+- **Support Vector Machines** - [Scikit-learn SVM](https://scikit-learn.org/stable/modules/svm.html)
+- **SVM Kernels** - [Kernel functions](https://scikit-learn.org/stable/modules/svm.html#kernel-functions)
+- **SVM Parameters** - [SVM tuning guide](https://scikit-learn.org/stable/modules/svm.html#parameters-of-the-rbf-kernel)
+
+### 📖 Essential Articles
+
+- **SVM Tutorial** - [Complete SVM guide](https://machinelearningmastery.com/support-vector-machines-for-machine-learning/)
+- **Kernel Trick Explained** - [Understanding kernel methods](https://towardsdatascience.com/understanding-the-kernel-trick-e0bc6112ef78)
+- **SVM vs Other Algorithms** - [When to use SVM](https://towardsdatascience.com/support-vector-machine-svm-101-2b638b89e1e0)
+
+### 🎓 Learning Resources
+
+- **SVM Mathematics** - [Mathematical foundations](https://towardsdatascience.com/support-vector-machine-svm-101-2b638b89e1e0)
+- **Kernel Selection** - [Choosing the right kernel](https://scikit-learn.org/stable/modules/svm.html#kernel-functions)
+- **VC Dimension** - [Understanding VC dimension](https://towardsdatascience.com/vc-dimension-explained-3b2be5d4f3b7)
+
+### 💡 Best Practices
+
+- **SVM Parameter Tuning** - [Hyperparameter optimization](https://scikit-learn.org/stable/modules/grid_search.html)
+- **Feature Scaling** - [Scaling for SVM](https://scikit-learn.org/stable/modules/preprocessing.html#standardization-or-mean-removal-and-variance-scaling)
+- **SVM Best Practices** - [SVM usage tips](https://scikit-learn.org/stable/modules/svm.html#tips-on-practical-use)
+
+### 🔬 Research Papers
+
+- **SVM Tutorial** - [Burges (1998)](https://doi.org/10.1023/A:1009715923555) - Comprehensive SVM tutorial
+- **Support-Vector Networks** - [Cortes & Vapnik (1995)](https://doi.org/10.1007/BF00994018) - Original SVM paper
+- **VC Dimension** - [Vapnik & Chervonenkis (1971)](https://doi.org/10.1137/1116025) - VC dimension theory
+
+---
+
 **Previous Chapter**: [Chapter 7: Instance-Based Learning](07_instance_based.md) | **Next Chapter**: [Chapter 9: Neural Networks](09_neural_networks.md)
 
