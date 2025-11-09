@@ -534,18 +534,31 @@ Understanding these foundations prepares you for:
 ### Primary References
 
 1. **Mitchell, T. M.** (1997). *Machine Learning*. Chapter 1: Introduction. McGraw-Hill.
+   - [Amazon](https://www.amazon.com/Machine-Learning-Tom-M-Mitchell/dp/0070428077)
+   - [McGraw-Hill](https://www.mheducation.com/highered/product/machine-learning-mitchell/M9780070428072.html)
 
 2. **Bishop, C. M.** (2006). *Pattern Recognition & Machine Learning*. Chapter 1: Introduction. Springer.
+   - [Springer](https://link.springer.com/book/10.1007/978-0-387-45528-0)
+   - [Free PDF (Author's Website)](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+   - [Amazon](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
 
 ### Additional Reading
 
 3. **Hastie, T., Tibshirani, R., & Friedman, J.** (2009). *The Elements of Statistical Learning*. Chapter 1: Introduction. Springer.
+   - [Springer](https://link.springer.com/book/10.1007/978-0-387-84858-7)
+   - [Free PDF (Author's Website)](https://hastie.su.domains/ElemStatLearn/)
+   - [Amazon](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)
 
-4. **Mohri, M., Rostamizadeh, A., & Talwalkar, A.** (2018). *Foundations of Machine Learning*. Chapter 1: Introduction. MIT Press.
+4. **Mohri, M., Rostamizadeh, A., & Talwalkar, A.** (2018). *Foundations of Machine Learning* (2nd Edition). Chapter 1: Introduction. MIT Press.
+   - [MIT Press](https://mitpress.mit.edu/9780262039406/foundations-of-machine-learning-second-edition/)
+   - [Free PDF (Author's Website)](https://cs.nyu.edu/~mohri/mlbook/)
+   - [Amazon](https://www.amazon.com/Foundations-Machine-Learning-Adaptive-Computation/dp/0262039400)
 
 ### Research Papers
 
 5. **Wolpert, D. H.** (1996). The lack of a priori distinctions between learning algorithms. *Neural Computation*, 8(7), 1341-1390. (No Free Lunch Theorem)
+   - [DOI: 10.1162/neco.1996.8.7.1341](https://doi.org/10.1162/neco.1996.8.7.1341)
+   - [PDF](https://direct.mit.edu/neco/article-abstract/8/7/1341/6108/The-Lack-of-A-Priori-Distinctions-Between-Learning)
 
 ---
 

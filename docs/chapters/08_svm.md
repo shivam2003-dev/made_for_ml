@@ -549,19 +549,29 @@ Understanding SVMs prepares you for:
 ### Primary References
 
 1. **Burges, C. J. C.** (1998). A Tutorial on Support Vector Machines for Pattern Recognition. *Data Mining and Knowledge Discovery*, 2(2), 121-167.
+   - [DOI: 10.1023/A:1009715923555](https://doi.org/10.1023/A:1009715923555)
+   - [PDF (ResearchGate)](https://www.researchgate.net/publication/220420529_A_Tutorial_on_Support_Vector_Machines_for_Pattern_Recognition)
 
 2. **Bishop, C. M.** (2006). *Pattern Recognition & Machine Learning*.
    - Chapter 7: Sparse Kernel Machines
+   - [Springer](https://link.springer.com/book/10.1007/978-0-387-45528-0)
+   - [Free PDF](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
 ### Research Papers
 
 3. **Cortes, C., & Vapnik, V.** (1995). Support-vector networks. *Machine Learning*, 20(3), 273-297.
+   - [DOI: 10.1007/BF00994018](https://doi.org/10.1007/BF00994018)
+   - [PDF](https://link.springer.com/article/10.1007/BF00994018)
 
 4. **Vapnik, V. N.** (1998). *Statistical Learning Theory*. Wiley.
+   - [Amazon](https://www.amazon.com/Statistical-Learning-Theory-Vladimir-Vapnik/dp/0471030031)
+   - [Wiley](https://www.wiley.com/en-us/Statistical+Learning+Theory-p-9780471030034)
 
 ### VC Dimension
 
 5. **Vapnik, V., & Chervonenkis, A.** (1971). On the uniform convergence of relative frequencies of events to their probabilities. *Theory of Probability and its Applications*, 16(2), 264-280.
+   - [DOI: 10.1137/1116025](https://doi.org/10.1137/1116025)
+   - [PDF](https://epubs.siam.org/doi/abs/10.1137/1116025)
 
 ---
 

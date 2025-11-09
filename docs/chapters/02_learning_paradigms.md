@@ -506,12 +506,21 @@ Understanding learning paradigms prepares you for:
 ### Reinforcement Learning
 
 3. **Sutton, R. S., & Barto, A. G.** (2018). *Reinforcement Learning: An Introduction* (2nd ed.). MIT Press.
+   - [MIT Press](https://mitpress.mit.edu/9780262039246/reinforcement-learning-second-edition/)
+   - [Free Online Book](http://incompleteideas.net/book/the-book-2nd.html)
+   - [Amazon](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249)
 
 4. **Szepesvári, C.** (2010). *Algorithms for Reinforcement Learning*. Morgan & Claypool.
+   - [Morgan & Claypool](https://www.morganclaypool.com/doi/abs/10.2200/S00268ED1V01Y201005AIM009)
+   - [Free PDF](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
+   - [Amazon](https://www.amazon.com/Algorithms-Reinforcement-Learning-Synthesis-Artificial/dp/1608454924)
 
 ### Research Papers
 
 5. **Jordan, M. I., & Mitchell, T. M.** (2015). Machine learning: Trends, perspectives, and prospects. *Science*, 349(6245), 255-260.
+   - [DOI: 10.1126/science.aaa8415](https://doi.org/10.1126/science.aaa8415)
+   - [Science](https://www.science.org/doi/10.1126/science.aaa8415)
+   - [PDF](https://www.science.org/doi/pdf/10.1126/science.aaa8415)
 
 ---
 

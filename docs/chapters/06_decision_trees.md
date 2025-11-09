@@ -512,14 +512,22 @@ Understanding decision trees prepares you for:
    - Chapter 3: Decision Tree Learning
 
 2. **Quinlan, J. R.** (1986). Induction of decision trees. *Machine Learning*, 1(1), 81-106. (ID3)
+   - [DOI: 10.1007/BF00116251](https://doi.org/10.1007/BF00116251)
+   - [PDF](https://link.springer.com/article/10.1007/BF00116251)
 
 3. **Quinlan, J. R.** (1993). *C4.5: Programs for Machine Learning*. Morgan Kaufmann.
+   - [Amazon](https://www.amazon.com/C4-5-Programs-Machine-Learning/dp/1558602380)
+   - [Morgan Kaufmann](https://www.elsevier.com/books/c45-programs-for-machine-learning/quinlan/978-1-55860-238-0)
 
 ### Research Papers
 
 4. **Breiman, L., Friedman, J., Stone, C. J., & Olshen, R. A.** (1984). *Classification and Regression Trees*. Wadsworth.
+   - [Amazon](https://www.amazon.com/Classification-Regression-Wadsworth-Statistics-Probability/dp/0412048418)
+   - [Taylor & Francis](https://www.taylorfrancis.com/books/mono/10.1201/9781315139470/classification-regression-trees-leo-breiman)
 
 5. **Breiman, L.** (2001). Random forests. *Machine Learning*, 45(1), 5-32.
+   - [DOI: 10.1023/A:1010933404324](https://doi.org/10.1023/A:1010933404324)
+   - [PDF](https://link.springer.com/article/10.1023/A:1010933404324)
 
 ---
 

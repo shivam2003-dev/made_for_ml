@@ -562,16 +562,22 @@ Understanding instance-based learning prepares you for:
    - Chapter 8: Instance-Based Learning
 
 2. **Aha, D. W., Kibler, D., & Albert, M. K.** (1991). Instance-based learning algorithms. *Machine Learning*, 6(1), 37-66.
+   - [DOI: 10.1023/A:1022689900470](https://doi.org/10.1023/A:1022689900470)
+   - [PDF](https://link.springer.com/article/10.1023/A:1022689900470)
 
 ### Case-Based Reasoning
 
 3. **Kolodner, J.** (1993). *Case-Based Reasoning*. Morgan Kaufmann.
+   - [Amazon](https://www.amazon.com/Case-Based-Reasoning-Janet-Kolodner/dp/1558602372)
 
 4. **Aamodt, A., & Plaza, E.** (1994). Case-based reasoning: Foundational issues, methodological variations, and system approaches. *AI Communications*, 7(1), 39-59.
+   - [PDF](https://www.researchgate.net/publication/220420529_Case-Based_Reasoning_Foundational_Issues_Methodological_Variations_and_System_Approaches)
 
 ### Research Papers
 
 5. **Cover, T., & Hart, P.** (1967). Nearest neighbor pattern classification. *IEEE Transactions on Information Theory*, 13(1), 21-27.
+   - [DOI: 10.1109/TIT.1967.1053964](https://doi.org/10.1109/TIT.1967.1053964)
+   - [IEEE Xplore](https://ieeexplore.ieee.org/document/1053964)
 
 ---
 

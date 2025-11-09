@@ -594,14 +594,24 @@ Understanding neural networks prepares you for:
 ### Deep Learning
 
 3. **Goodfellow, I., Bengio, Y., & Courville, A.** (2016). *Deep Learning*. MIT Press.
+   - [MIT Press](https://mitpress.mit.edu/9780262035613/deep-learning/)
+   - [Free Online Book](https://www.deeplearningbook.org/)
+   - [Amazon](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
 
 4. **Nielsen, M.** (2015). *Neural Networks and Deep Learning*. Determination Press.
+   - [Free Online Book](http://neuralnetworksanddeeplearning.com/)
+   - [GitHub](https://github.com/mnielsen/neural-networks-and-deep-learning)
 
 ### Research Papers
 
 5. **Rumelhart, D. E., Hinton, G. E., & Williams, R. J.** (1986). Learning representations by back-propagating errors. *Nature*, 323(6088), 533-536.
+   - [DOI: 10.1038/323533a0](https://doi.org/10.1038/323533a0)
+   - [Nature](https://www.nature.com/articles/323533a0)
+   - [PDF](https://www.nature.com/articles/323533a0.pdf)
 
 6. **Hornik, K., Stinchcombe, M., & White, H.** (1989). Multilayer feedforward networks are universal approximators. *Neural Networks*, 2(5), 359-366.
+   - [DOI: 10.1016/0893-6080(89)90020-8](https://doi.org/10.1016/0893-6080(89)90020-8)
+   - [PDF](https://www.sciencedirect.com/science/article/abs/pii/0893608089900208)
 
 ---
 

@@ -644,18 +644,28 @@ Understanding genetic algorithms prepares you for:
 ### Primary References
 
 1. **Mitchell, M.** (1998). *An Introduction to Genetic Algorithms*. MIT Press.
+   - [MIT Press](https://mitpress.mit.edu/9780262631853/an-introduction-to-genetic-algorithms/)
+   - [Amazon](https://www.amazon.com/Introduction-Genetic-Algorithms-Complex-Adaptive/dp/0262631857)
 
 2. **Goldberg, D. E.** (1989). *Genetic Algorithms in Search, Optimization, and Machine Learning*. Addison-Wesley.
+   - [Amazon](https://www.amazon.com/Genetic-Algorithms-Search-Optimization-Machine/dp/0201157675)
+   - [Pearson](https://www.pearson.com/en-us/subject-catalog/p/genetic-algorithms-in-search-optimization-and-machine-learning/P200000003431)
 
 ### Research Papers
 
 3. **Holland, J. H.** (1975). *Adaptation in Natural and Artificial Systems*. University of Michigan Press.
+   - [Amazon](https://www.amazon.com/Adaptation-Natural-Artificial-Systems-Introductory/dp/0262581116)
+   - [MIT Press (Reprint)](https://mitpress.mit.edu/9780262581110/adaptation-in-natural-and-artificial-systems/)
 
 4. **Deb, K., Pratap, A., Agarwal, S., & Meyarivan, T.** (2002). A fast and elitist multiobjective genetic algorithm: NSGA-II. *IEEE Transactions on Evolutionary Computation*, 6(2), 182-197.
+   - [DOI: 10.1109/4235.996017](https://doi.org/10.1109/4235.996017)
+   - [IEEE Xplore](https://ieeexplore.ieee.org/document/996017)
 
 ### Applications
 
 5. **Whitley, D.** (1994). A genetic algorithm tutorial. *Statistics and Computing*, 4(2), 65-85.
+   - [DOI: 10.1007/BF00175354](https://doi.org/10.1007/BF00175354)
+   - [PDF](https://link.springer.com/article/10.1007/BF00175354)
 
 ---
 
