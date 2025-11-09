@@ -69,16 +69,16 @@ nav:
   - Home: index.md
   - Course Overview: overview.md
   - Chapters:
-    - Chapter 1: Introduction to Machine Learning: chapters/01_introduction.md
-    - Chapter 2: Learning Paradigms: chapters/02_learning_paradigms.md
-    - Chapter 3: Model Selection and Evaluation: chapters/03_model_selection.md
-    - Chapter 4: Bayesian Learning: chapters/04_bayesian_learning.md
-    - Chapter 5: Linear Models: chapters/05_linear_models.md
-    - Chapter 6: Decision Trees: chapters/06_decision_trees.md
-    - Chapter 7: Instance-Based Learning: chapters/07_instance_based.md
-    - Chapter 8: Support Vector Machines: chapters/08_svm.md
-    - Chapter 9: Neural Networks: chapters/09_neural_networks.md
-    - Chapter 10: Genetic Algorithms: chapters/10_genetic_algorithms.md
+    - "Chapter 1: Introduction to Machine Learning": chapters/01_introduction.md
+    - "Chapter 2: Learning Paradigms": chapters/02_learning_paradigms.md
+    - "Chapter 3: Model Selection and Evaluation": chapters/03_model_selection.md
+    - "Chapter 4: Bayesian Learning": chapters/04_bayesian_learning.md
+    - "Chapter 5: Linear Models": chapters/05_linear_models.md
+    - "Chapter 6: Decision Trees": chapters/06_decision_trees.md
+    - "Chapter 7: Instance-Based Learning": chapters/07_instance_based.md
+    - "Chapter 8: Support Vector Machines": chapters/08_svm.md
+    - "Chapter 9: Neural Networks": chapters/09_neural_networks.md
+    - "Chapter 10: Genetic Algorithms": chapters/10_genetic_algorithms.md
   - References: references.md
 
 plugins:
