@@ -1,0 +1,22 @@
+# MkDocs and Documentation
+mkdocs>=1.5.0
+mkdocs-material>=9.0.0
+pymdown-extensions>=10.0.0
+
+# Python Scientific Computing
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+scikit-learn>=1.3.0
+
+# Optional: Deep Learning (for Chapter 9 examples)
+# tensorflow>=2.13.0
+# torch>=2.0.0
+
+# Development Tools
+jupyter>=1.0.0
+ipython>=8.12.0
+
+# Git integration for MkDocs
+mkdocs-git-revision-date-localized-plugin>=1.2.0
+
