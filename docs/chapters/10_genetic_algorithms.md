@@ -707,5 +707,3 @@ Understanding genetic algorithms prepares you for:
 
 **Back to**: [Course Home](index.md)
 
-**Back to**: [Course Home](index.md)
-
