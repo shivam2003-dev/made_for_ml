@@ -536,6 +536,7 @@ Understanding these foundations prepares you for:
     1. **Mitchell, T. M.** (1997). *Machine Learning*. Chapter 1: Introduction. McGraw-Hill.
        - [Amazon](https://www.amazon.com/Machine-Learning-Tom-M-Mitchell/dp/0070428077)
        - [McGraw-Hill](https://www.mheducation.com/highered/product/machine-learning-mitchell/M9780070428072.html)
+       - [Google Books](https://books.google.com/books/about/Machine_Learning.html?id=EoYBngEACAAJ)
 
     2. **Bishop, C. M.** (2006). *Pattern Recognition & Machine Learning*. Chapter 1: Introduction. Springer.
        - [Springer](https://link.springer.com/book/10.1007/978-0-387-45528-0)
@@ -558,7 +559,7 @@ Understanding these foundations prepares you for:
 
     5. **Wolpert, D. H.** (1996). The lack of a priori distinctions between learning algorithms. *Neural Computation*, 8(7), 1341-1390. (No Free Lunch Theorem)
        - [DOI: 10.1162/neco.1996.8.7.1341](https://doi.org/10.1162/neco.1996.8.7.1341)
-       - [PDF](https://direct.mit.edu/neco/article-abstract/8/7/1341/6108/The-Lack-of-A-Priori-Distinctions-Between-Learning)
+       - [PDF](https://direct.mit.edu/neco/article/8/7/1341/6108/The-Lack-of-A-Priori-Distinctions-Between-Learning)
 
     ---
 

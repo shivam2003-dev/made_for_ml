@@ -506,7 +506,7 @@ Understanding Bayesian learning prepares you for:
 
     3. **Rissanen, J.** (1978). Modeling by shortest data description. *Automatica*, 14(5), 465-471. (MDL Principle)
        - [DOI: 10.1016/0005-1098(78)90005-5](https://doi.org/10.1016/0005-1098(78)90005-5)
-       - [PDF](https://www.sciencedirect.com/science/article/abs/pii/0005109878900055)
+       - [PDF](https://www.sciencedirect.com/science/article/pii/pii/0005109878900055)
 
     4. **Domingos, P., & Pazzani, M.** (1997). On the optimality of the simple Bayesian classifier under zero-one loss. *Machine Learning*, 29(2-3), 103-130.
        - [DOI: 10.1023/A:1007413511361](https://doi.org/10.1023/A:1007413511361)

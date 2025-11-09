@@ -550,7 +550,7 @@ Understanding SVMs prepares you for:
 
     1. **Burges, C. J. C.** (1998). A Tutorial on Support Vector Machines for Pattern Recognition. *Data Mining and Knowledge Discovery*, 2(2), 121-167.
        - [DOI: 10.1023/A:1009715923555](https://doi.org/10.1023/A:1009715923555)
-       - [PDF (ResearchGate)](https://www.researchgate.net/publication/220420529_A_Tutorial_on_Support_Vector_Machines_for_Pattern_Recognition)
+       - [PDF](https://link.springer.com/article/10.1023/A:1009715923555)
 
     2. **Bishop, C. M.** (2006). *Pattern Recognition & Machine Learning*.
        - Chapter 7: Sparse Kernel Machines
@@ -571,7 +571,7 @@ Understanding SVMs prepares you for:
 
     5. **Vapnik, V., & Chervonenkis, A.** (1971). On the uniform convergence of relative frequencies of events to their probabilities. *Theory of Probability and its Applications*, 16(2), 264-280.
        - [DOI: 10.1137/1116025](https://doi.org/10.1137/1116025)
-       - [PDF](https://epubs.siam.org/doi/abs/10.1137/1116025)
+       - [PDF](https://epubs.siam.org/doi/pdf/10.1137/1116025)
 
     ---
 

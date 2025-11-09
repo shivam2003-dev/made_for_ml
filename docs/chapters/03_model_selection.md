@@ -473,11 +473,11 @@ Understanding model selection prepares you for:
 
     3. **Kohavi, R.** (1995). A study of cross-validation and bootstrap for accuracy estimation and model selection. *IJCAI*, 14(2), 1137-1145.
        - [PDF](https://www.ijcai.org/Proceedings/95-2/Papers/016.pdf)
-       - [CiteSeerX](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.48.529)
+       - [CiteSeerX](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.48.529&rep=rep1&type=pdf)
 
     4. **Geman, S., Bienenstock, E., & Doursat, R.** (1992). Neural networks and the bias/variance dilemma. *Neural Computation*, 4(1), 1-58.
        - [DOI: 10.1162/neco.1992.4.1.1](https://doi.org/10.1162/neco.1992.4.1.1)
-       - [PDF](https://direct.mit.edu/neco/article-abstract/4/1/1/5515/Neural-Networks-and-the-Bias-Variance-Dilemma)
+       - [PDF](https://direct.mit.edu/neco/article/4/1/1/5515/Neural-Networks-and-the-Bias-Variance-Dilemma)
 
     ---
 

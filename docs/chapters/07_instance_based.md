@@ -571,7 +571,8 @@ Understanding instance-based learning prepares you for:
        - [Amazon](https://www.amazon.com/Case-Based-Reasoning-Janet-Kolodner/dp/1558602372)
 
     4. **Aamodt, A., & Plaza, E.** (1994). Case-based reasoning: Foundational issues, methodological variations, and system approaches. *AI Communications*, 7(1), 39-59.
-       - [PDF](https://www.researchgate.net/publication/220420529_Case-Based_Reasoning_Foundational_Issues_Methodological_Variations_and_System_Approaches)
+       - [ResearchGate](https://www.researchgate.net/publication/220420529_Case-Based_Reasoning_Foundational_Issues_Methodological_Variations_and_System_Approaches)
+       - [PDF](https://www.researchgate.net/profile/Agnar-Aamodt/publication/220420529_Case-Based_Reasoning_Foundational_Issues_Methodological_Variations_and_System_Approaches/links/0deec52a5c5c3c1e0f000000/Case-Based-Reasoning-Foundational-Issues-Methodological-Variations-and-System-Approaches.pdf)
 
 ??? note "🔬 Research Papers"
 

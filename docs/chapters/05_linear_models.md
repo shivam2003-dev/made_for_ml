@@ -512,11 +512,11 @@ Understanding linear models prepares you for:
 
     3. **Tibshirani, R.** (1996). Regression shrinkage and selection via the lasso. *Journal of the Royal Statistical Society*, 58(1), 267-288.
        - [DOI: 10.1111/j.2517-6161.1996.tb02080.x](https://doi.org/10.1111/j.2517-6161.1996.tb02080.x)
-       - [PDF](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/j.2517-6161.1996.tb02080.x)
+       - [PDF](https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/j.2517-6161.1996.tb02080.x)
 
     4. **Hoerl, A. E., & Kennard, R. W.** (1970). Ridge regression: Biased estimation for nonorthogonal problems. *Technometrics*, 12(1), 55-67.
        - [DOI: 10.1080/00401706.1970.10488634](https://doi.org/10.1080/00401706.1970.10488634)
-       - [PDF](https://www.tandfonline.com/doi/abs/10.1080/00401706.1970.10488634)
+       - [PDF](https://www.tandfonline.com/doi/pdf/10.1080/00401706.1970.10488634)
 
     ---
 

@@ -611,7 +611,7 @@ Understanding neural networks prepares you for:
 
     6. **Hornik, K., Stinchcombe, M., & White, H.** (1989). Multilayer feedforward networks are universal approximators. *Neural Networks*, 2(5), 359-366.
        - [DOI: 10.1016/0893-6080(89)90020-8](https://doi.org/10.1016/0893-6080(89)90020-8)
-       - [PDF](https://www.sciencedirect.com/science/article/abs/pii/0893608089900208)
+       - [PDF](https://www.sciencedirect.com/science/article/pii/pii/0893608089900208)
 
     ---
 
