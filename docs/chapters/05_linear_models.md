@@ -4,6 +4,14 @@
 
 Linear models form the foundation of many machine learning algorithms. Despite their simplicity, they are powerful, interpretable, and serve as building blocks for more complex methods. This chapter covers linear models for both regression and classification, including regularization techniques (Ridge, Lasso) and their mathematical foundations.
 
+!!! important "Why Start with Linear Models?"
+    Linear models are the perfect starting point because:
+    - **Simplicity**: Easy to understand and implement
+    - **Interpretability**: You can see exactly what each feature contributes
+    - **Baseline**: Always try linear models first before complex ones
+    - **Foundation**: Neural networks and SVMs build on linear concepts
+    - **Production**: Often the best choice for real-world systems (simplicity + performance)
+
 Linear models are particularly valuable because:
 - They are computationally efficient
 - They provide interpretable results
@@ -50,6 +58,14 @@ $$L(w, b) = \frac{1}{2m} \sum_{i=1}^m (h(x_i) - y_i)^2 = \frac{1}{2m} \sum_{i=1}
 In matrix form, with $X \in \mathbb{R}^{m \times d}$ and $y \in \mathbb{R}^m$:
 
 $$w^* = (X^T X)^{-1} X^T y$$
+
+!!! warning "Normal Equation Limitations"
+    The normal equation requires $(X^T X)^{-1}$ to exist, which fails when:
+    - **More features than samples**: $d > m$ (underdetermined system)
+    - **Multicollinearity**: Features are linearly dependent
+    - **Singular matrix**: $X^T X$ is not invertible
+    
+    **Solution**: Use gradient descent or add regularization (Ridge) to make it invertible.
 
 **Gradient Descent**:
 
@@ -409,6 +425,25 @@ Linear Models
 ### Pitfall: Not Scaling Features
 
 Gradient descent and regularization are sensitive to feature scales. Always standardize features before applying Ridge/Lasso.
+
+!!! danger "Feature Scaling Critical"
+    **Without scaling**: Features with larger scales dominate the model
+    ```python
+    # BAD: Features on different scales
+    X = [[1000, 0.5], [2000, 0.3], ...]  # Size vs Price ratio
+    # Size feature dominates!
+    ```
+    
+    **With scaling**: All features contribute equally
+    ```python
+    # GOOD: Standardized features
+    from sklearn.preprocessing import StandardScaler
+    scaler = StandardScaler()
+    X_scaled = scaler.fit_transform(X)
+    # Now all features on same scale
+    ```
+    
+    **Always scale** before Ridge/Lasso - regularization assumes features are comparable!
 
 ### Pitfall: Ignoring Multicollinearity
 

@@ -4,6 +4,14 @@
 
 Bayesian learning provides a principled probabilistic framework for machine learning. Unlike frequentist approaches that find point estimates, Bayesian methods maintain probability distributions over hypotheses, naturally incorporating uncertainty and prior knowledge. This chapter covers Bayesian inference, Maximum A Posteriori (MAP) estimation, Minimum Description Length (MDL) principle, and the Bayes optimal classifier.
 
+!!! important "Why Bayesian Learning?"
+    Bayesian methods offer unique advantages:
+    - **Uncertainty Quantification**: Provides probability distributions, not just point estimates
+    - **Prior Knowledge**: Naturally incorporates domain expertise
+    - **Regularization**: Priors act as natural regularization, preventing overfitting
+    - **Optimality**: Bayes optimal classifier is theoretically the best possible
+    - **Small Data**: Particularly powerful when data is limited
+
 Bayesian methods are particularly powerful when:
 - We have prior knowledge about the problem
 - We need to quantify uncertainty
@@ -72,6 +80,14 @@ $$\text{arg}\max_{v_j \in V} \sum_{h_i \in \mathcal{H}} P(v_j|h_i) \cdot P(h_i|D
 where $V$ is the set of possible class values.
 
 **Key Insight**: This is the optimal classifier - no other classifier can achieve lower expected error.
+
+!!! important "Bayes Optimal Classifier"
+    The Bayes optimal classifier is **theoretically optimal** - no other classifier can achieve lower expected error. However:
+    - **Computationally expensive**: Requires summing over all hypotheses
+    - **Requires true posteriors**: Need accurate $P(h_i|D)$ for all hypotheses
+    - **Often impractical**: For large hypothesis spaces, we use approximations (MAP, etc.)
+    
+    This is a theoretical gold standard, not always practical, but guides algorithm design.
 
 ### Minimum Description Length (MDL) Principle
 
@@ -392,6 +408,15 @@ plt.show()
 - Computational complexity
 - Need for good priors
 - May be overkill for simple problems
+
+!!! warning "When NOT to Use Bayesian Methods"
+    Bayesian methods are not always the best choice:
+    - **Large datasets**: Frequentist methods may be sufficient and faster
+    - **No prior knowledge**: If you have no domain expertise, uniform priors = ML
+    - **Computational constraints**: Bayesian inference can be expensive
+    - **Simple problems**: Overkill for straightforward classification/regression
+    
+    **Rule of thumb**: Use Bayesian methods when you have prior knowledge or need uncertainty estimates.
 
 ### Misconception 2: "Prior Doesn't Matter with Enough Data"
 

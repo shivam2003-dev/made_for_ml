@@ -4,6 +4,14 @@
 
 Support Vector Machines (SVM) are powerful classifiers that find the optimal separating hyperplane by maximizing the margin between classes. This chapter covers the mathematical foundations of SVMs, including hard and soft margins, kernel methods, and the connection to VC dimension theory.
 
+!!! important "Why SVMs?"
+    SVMs have strong theoretical foundations and practical advantages:
+    - **Maximum Margin**: Finds the "safest" decision boundary
+    - **Kernel Trick**: Handles non-linear problems elegantly
+    - **Sparse**: Only support vectors matter (memory efficient)
+    - **Theoretical Guarantees**: VC dimension theory provides generalization bounds
+    - **Versatile**: Works for classification, regression, and novelty detection
+
 SVMs are particularly valuable because:
 - Strong theoretical foundations (statistical learning theory)
 - Effective in high-dimensional spaces

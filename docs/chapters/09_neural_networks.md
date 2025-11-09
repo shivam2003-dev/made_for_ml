@@ -4,6 +4,23 @@
 
 Neural networks are computational models inspired by biological neural systems. They consist of interconnected nodes (neurons) organized in layers, capable of learning complex non-linear patterns. This chapter covers perceptrons, multi-layer perceptrons, the backpropagation algorithm, and foundations of deep learning.
 
+!!! important "The Neural Network Revolution"
+    Neural networks have revolutionized ML:
+    - **Universal Approximation**: Can approximate any continuous function
+    - **Automatic Feature Learning**: No manual feature engineering needed
+    - **Hierarchical Representations**: Learn features at multiple levels
+    - **State-of-the-Art**: Dominant in vision, NLP, speech, games
+    - **Foundation for Deep Learning**: CNNs, RNNs, Transformers all build on these concepts
+
+!!! warning "When to Use Neural Networks"
+    Neural networks are powerful but not always the best choice:
+    - **Large datasets**: Need sufficient data to learn
+    - **Computational resources**: Training can be expensive
+    - **Interpretability**: Harder to explain than linear models or trees
+    - **Overkill for simple problems**: Linear models may suffice
+    
+    **Rule**: Try simpler models first, use neural networks when you need their power.
+
 Neural networks are powerful because:
 - Universal function approximators (can approximate any continuous function)
 - Learn hierarchical representations automatically

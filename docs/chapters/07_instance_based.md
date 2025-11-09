@@ -4,6 +4,19 @@
 
 Instance-based learning (also called lazy learning) differs from eager learning methods by deferring generalization until prediction time. Instead of building an explicit model, these methods store training examples and make predictions based on similarity to stored instances. This chapter covers K-Nearest Neighbors (KNN), Case-Based Reasoning (CBR), and distance metrics.
 
+!!! tip "Lazy vs Eager Learning"
+    **Eager Learning** (Decision Trees, Neural Networks):
+    - Build model during training
+    - Fast prediction, slower training
+    - Model is compact
+    
+    **Lazy Learning** (KNN, CBR):
+    - Store all training data
+    - Fast training, slower prediction
+    - Model = the data itself
+    
+    Choose based on your priorities: prediction speed vs training speed.
+
 Instance-based learning is valuable because:
 - No explicit model training phase
 - Can adapt to local patterns in data

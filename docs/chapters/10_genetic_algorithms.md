@@ -4,6 +4,23 @@
 
 Genetic Algorithms (GAs) are evolutionary computation methods inspired by natural selection and genetics. They maintain a population of candidate solutions and evolve them over generations using selection, crossover, and mutation operators. This chapter covers the foundations of GAs, their components, and applications in machine learning.
 
+!!! note "When to Use Genetic Algorithms"
+    GAs are particularly useful for:
+    - **Discrete optimization**: Feature selection, hyperparameter tuning
+    - **Non-differentiable problems**: Where gradients don't exist
+    - **Multi-modal landscapes**: Multiple good solutions
+    - **Black-box optimization**: When you can only evaluate, not differentiate
+    - **Hybrid approaches**: Combine with local search for best results
+
+!!! warning "GA Limitations"
+    GAs are not always the best choice:
+    - **Slower than gradient methods**: For smooth, differentiable problems
+    - **No convergence guarantee**: May not find global optimum
+    - **Parameter tuning**: Many hyperparameters to tune
+    - **Computational cost**: Need many function evaluations
+    
+    **Use when**: Problem is discrete, non-differentiable, or gradient methods fail.
+
 Genetic Algorithms are valuable because:
 - Global optimization (can escape local optima)
 - No gradient required (works with discrete/non-differentiable problems)

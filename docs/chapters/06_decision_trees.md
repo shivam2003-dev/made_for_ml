@@ -4,6 +4,14 @@
 
 Decision trees are intuitive, interpretable models that make decisions by asking a series of questions. They partition the feature space into regions and assign predictions based on these partitions. This chapter covers tree construction algorithms (ID3, C4.5, CART), splitting criteria, pruning, and ensemble methods.
 
+!!! important "Why Decision Trees?"
+    Decision trees are among the most interpretable ML models:
+    - **Human-readable**: Can be explained to non-technical stakeholders
+    - **No preprocessing**: Work with raw data (missing values, mixed types)
+    - **Feature importance**: Automatically identify important features
+    - **Non-linear**: Capture complex interactions without feature engineering
+    - **Foundation**: Basis for Random Forest, XGBoost, LightGBM (state-of-the-art)
+
 Decision trees are valuable because:
 - Highly interpretable (can be visualized)
 - Handle both numerical and categorical features

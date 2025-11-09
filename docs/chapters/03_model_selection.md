@@ -4,6 +4,15 @@
 
 Selecting the right model and evaluating its performance are fundamental challenges in machine learning. This chapter covers the bias-variance decomposition, cross-validation, evaluation metrics, and the crucial trade-offs involved in model selection. Understanding these concepts is essential for building models that generalize well to unseen data.
 
+!!! important "Why Model Selection Matters"
+    Model selection is arguably the most critical skill in machine learning:
+    - **Prevents overfitting**: Choose models that generalize, not just memorize
+    - **Saves resources**: Avoid training overly complex models unnecessarily
+    - **Enables comparison**: Fairly compare different algorithms
+    - **Builds intuition**: Understand when and why models fail
+    
+    A poorly selected model will fail in production, no matter how sophisticated the algorithm.
+
 The central problem: How do we choose among different models, and how do we know if our model will perform well on new data?
 
 ## Core Theory & Intuitive Explanation
@@ -15,6 +24,17 @@ The central problem: How do we choose among different models, and how do we know
 - **Variance**: How much our model's predictions vary with different training sets (overfitting)
 
 A good model balances both sources of error.
+
+!!! tip "Understanding Bias and Variance"
+    Think of bias and variance like shooting at a target:
+    - **High Bias, Low Variance**: Always miss in the same direction (consistent but wrong)
+      - Example: Linear model trying to fit non-linear data
+    - **Low Bias, High Variance**: Hits different spots each time (unpredictable)
+      - Example: Complex model that memorizes training data
+    - **Low Bias, Low Variance**: Hits the bullseye consistently (ideal)
+      - Example: Well-tuned model that captures true patterns
+    
+    The goal is to find the sweet spot between these extremes.
 
 ### Model Selection
 
@@ -42,6 +62,15 @@ where:
 
 - **Irreducible Error**: $\sigma^2 = E[(y - f(x))^2]$
   - Noise in the data that cannot be reduced
+  - Represents the fundamental uncertainty in the problem
+
+!!! important "The Irreducible Error"
+    No matter how good your model is, you can never reduce error below $\sigma^2$. This represents:
+    - Measurement noise in your data
+    - Unobservable factors affecting the outcome
+    - Fundamental randomness in the process
+    
+    **Key Insight**: If your model's error is close to $\sigma^2$, you've done about as well as possible!
 
 ### Derivation
 
@@ -82,6 +111,14 @@ The cross-validation error is:
 $$CV_{(k)} = \frac{1}{k} \sum_{i=1}^k L(\hat{f}^{-i}, D_i)$$
 
 where $\hat{f}^{-i}$ is the model trained on all data except fold $i$, and $D_i$ is fold $i$.
+
+!!! note "Choosing k in K-Fold CV"
+    Common choices for $k$:
+    - **k=5 or k=10**: Standard choice, good balance
+    - **k=m (Leave-One-Out)**: Maximum data usage, but computationally expensive
+    - **k=3**: Faster but less reliable estimates
+    
+    **Rule of thumb**: Use $k=5$ or $k=10$ unless you have very small datasets (< 100 samples).
 
 ### Evaluation Metrics
 
@@ -334,6 +371,30 @@ print(f"Unregularized MSE: {lr_mse:.2f}")
 ### Pitfall: Data Leakage in Cross-Validation
 
 If preprocessing (e.g., scaling) is done before splitting, information leaks from validation to training folds. Always fit preprocessing on training fold only.
+
+!!! danger "Data Leakage Example"
+    **WRONG** (data leakage):
+    ```python
+    # Compute mean/std on ALL data
+    scaler = StandardScaler()
+    X_scaled = scaler.fit_transform(X)  # Uses test data!
+    
+    # Then split
+    X_train, X_test = train_test_split(X_scaled, ...)
+    ```
+    
+    **CORRECT** (no leakage):
+    ```python
+    # Split first
+    X_train, X_test = train_test_split(X, ...)
+    
+    # Fit scaler on training data only
+    scaler = StandardScaler()
+    X_train_scaled = scaler.fit_transform(X_train)
+    X_test_scaled = scaler.transform(X_test)  # Use same scaling
+    ```
+    
+    Always: **Split → Fit on train → Transform both**
 
 ### Pitfall: Using Test Set for Model Selection
 
